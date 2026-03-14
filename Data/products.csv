@@ -1,0 +1,121 @@
+product_id,product_name,category,supplier_name,warehouse_location,cost_price,selling_price,supplier_lead_time_days,is_active
+1,Gaming Laptop G5,Electronics,Global Imports,Abuja Warehouse,407.49,772.96,8,1
+2,Home Security Camera,Sports,Global Imports,Abuja Warehouse,412.11,689.33,3,1
+3,Power Bank 20000mAh,Beauty,Prime Wholesale,Port Harcourt Warehouse,316.71,455.48,7,1
+4,Office Chair Ergonomic,Sports,Elite Merchants,Port Harcourt Warehouse,412.01,701.58,11,1
+5,Air Fryer 6L,Beauty,TechSource Ltd,Port Harcourt Warehouse,329.23,604.61,14,1
+6,Gaming Laptop G5,Beauty,Prime Wholesale,Abuja Warehouse,-50.0,207.99,16,1
+7,Tablet 10inch,Home,Global Imports,Abuja Warehouse,144.24,172.14,4,1
+8,Office Chair Ergonomic,Beauty,TechSource Ltd,Port Harcourt Warehouse,115.15,166.49,19,1
+9,Office Chair Ergonomic,Sports,Prime Wholesale,Port Harcourt Warehouse,194.86,239.69,16,1
+10,Women's Handbag Classic,Beauty,Elite Merchants,Abuja Warehouse,29.09,40.78,15,1
+11,Air Fryer 6L,Home,Prime Wholesale,Port Harcourt Warehouse,312.94,399.71,11,1
+12,Men's Running Sneakers,Home,Elite Merchants,Lagos Warehouse,174.91,286.0,17,1
+13,4K Smart TV 55inch,Sports,Global Imports,Abuja Warehouse,331.3,477.47,17,0
+14,Electric Kettle 1.7L,Fashion,Elite Merchants,Port Harcourt Warehouse,198.84,262.88,13,0
+15,Bluetooth Speaker Pro,Fashion,TechSource Ltd,Abuja Warehouse,343.99,464.2,18,1
+16,4K Smart TV 55inch,Beauty,Global Imports,Lagos Warehouse,176.91,251.26,19,1
+17,Wireless Earbuds X200,Electronics,TechSource Ltd,Abuja Warehouse,137.74,185.26,6,0
+18,Electric Kettle 1.7L,Beauty,Urban Retail Supply,Abuja Warehouse,253.06,377.04,3,1
+19,Electric Kettle 1.7L,Sports,Naija Distributors,Abuja Warehouse,349.52,410.42,10,1
+20,Wrist Watch Chronograph,Sports,Elite Merchants,Abuja Warehouse,180.68,245.69,19,1
+21,Smartphone 128GB,Sports,Naija Distributors,Lagos Warehouse,468.96,683.93,5,1
+22,LED Desk Lamp,Sports,Naija Distributors,Abuja Warehouse,29.2,46.78,17,1
+23,Power Bank 20000mAh,Sports,Elite Merchants,Abuja Warehouse,214.79,290.66,17,1
+24,Power Bank 20000mAh,Home,Global Imports,Port Harcourt Warehouse,484.11,605.08,16,1
+25,Tablet 10inch,Fashion,Urban Retail Supply,Abuja Warehouse,278.51,336.2,16,1
+26,Electric Kettle 1.7L,Sports,TechSource Ltd,Port Harcourt Warehouse,217.5,403.55,4,1
+27,Home Security Camera,Electronics,Prime Wholesale,Lagos Warehouse,288.57,422.03,15,1
+28,Men's Running Sneakers,Electronics,TechSource Ltd,Lagos Warehouse,292.2,463.39,16,0
+29,Stainless Steel Cookware Set,Electronics,Prime Wholesale,Lagos Warehouse,368.51,677.83,9,1
+30,Tablet 10inch,Electronics,TechSource Ltd,Lagos Warehouse,72.57,87.96,5,1
+31,Gaming Laptop G5,Home,Elite Merchants,Port Harcourt Warehouse,132.51,239.51,17,1
+32,Yoga Mat Premium,Electronics,Urban Retail Supply,Abuja Warehouse,294.47,460.46,16,1
+33,Gaming Laptop G5,Sports,Prime Wholesale,Lagos Warehouse,434.89,553.89,13,1
+34,Microwave Oven 20L,Beauty,Global Imports,Abuja Warehouse,285.31,416.11,17,1
+35,Women's Handbag Classic,Electronics,TechSource Ltd,Port Harcourt Warehouse,126.91,219.96,15,1
+36,Hair Dryer Professional,Home,TechSource Ltd,Port Harcourt Warehouse,343.12,518.21,20,1
+37,Microwave Oven 20L,Home,Prime Wholesale,Port Harcourt Warehouse,372.56,703.75,8,1
+38,Yoga Mat Premium,Electronics,Global Imports,Lagos Warehouse,126.74,181.56,5,1
+39,4K Smart TV 55inch,Beauty,Global Imports,Abuja Warehouse,195.09,334.03,17,1
+40,Home Security Camera,Electronics,Elite Merchants,Abuja Warehouse,271.82,392.71,7,1
+41,Power Bank 20000mAh,Home,Elite Merchants,Abuja Warehouse,253.31,448.83,12,1
+42,Gaming Laptop G5,Fashion,Elite Merchants,Port Harcourt Warehouse,200.91,316.8,9,1
+43,Electric Kettle 1.7L,Sports,Elite Merchants,Lagos Warehouse,155.84,186.64,19,1
+44,Air Fryer 6L,Home,Elite Merchants,Port Harcourt Warehouse,58.99,69.47,9,1
+45,Power Bank 20000mAh,Electronics,Elite Merchants,Port Harcourt Warehouse,36.21,45.28,14,1
+46,Men's Running Sneakers,Sports,Urban Retail Supply,Abuja Warehouse,479.69,556.56,19,1
+47,Hair Dryer Professional,Electronics,Global Imports,Port Harcourt Warehouse,425.1,512.89,15,1
+48,Wrist Watch Chronograph,Electronics,Elite Merchants,Abuja Warehouse,183.9,306.89,6,1
+49,Women's Handbag Classic,Fashion,Global Imports,Lagos Warehouse,478.83,742.55,12,1
+50,Microwave Oven 20L,Sports,Global Imports,Abuja Warehouse,341.62,585.0,5,1
+51,Air Fryer 6L,Sports,Naija Distributors,Lagos Warehouse,246.44,452.19,11,1
+52,Women's Handbag Classic,Fashion,Urban Retail Supply,Abuja Warehouse,251.58,399.73,15,1
+53,4K Smart TV 55inch,Home,Elite Merchants,Port Harcourt Warehouse,50.81,86.1,20,1
+54,Bluetooth Speaker Pro,Electronics,TechSource Ltd,Port Harcourt Warehouse,54.94,94.38,17,0
+55,Smartphone 128GB,Beauty,Prime Wholesale,Lagos Warehouse,305.2,437.47,6,1
+56,Women's Handbag Classic,Electronics,TechSource Ltd,Lagos Warehouse,281.31,374.37,17,1
+57,Microwave Oven 20L,Electronics,Urban Retail Supply,Lagos Warehouse,114.24,148.94,4,1
+58,Electric Kettle 1.7L,Home,Prime Wholesale,Abuja Warehouse,473.64,634.01,17,1
+59,4K Smart TV 55inch,Electronics,Urban Retail Supply,Abuja Warehouse,392.84,532.71,10,1
+60,Smartphone 128GB,Fashion,Global Imports,Lagos Warehouse,65.6,85.64,10,1
+61,Women's Handbag Classic,Fashion,Prime Wholesale,Port Harcourt Warehouse,466.16,843.13,19,1
+62,Hair Dryer Professional,Sports,Global Imports,Abuja Warehouse,487.38,837.2,14,1
+63,LED Desk Lamp,Beauty,TechSource Ltd,Abuja Warehouse,498.01,590.23,12,1
+64,Power Bank 20000mAh,Electronics,TechSource Ltd,Abuja Warehouse,37.38,50.52,11,1
+65,Air Fryer 6L,Electronics,Prime Wholesale,Lagos Warehouse,371.15,433.0,7,1
+66,Hair Dryer Professional,Home,Prime Wholesale,Lagos Warehouse,277.5,422.81,8,1
+67,Air Fryer 6L,Fashion,Elite Merchants,Lagos Warehouse,355.86,536.34,4,1
+68,LED Desk Lamp,Beauty,Urban Retail Supply,Lagos Warehouse,484.64,859.52,15,1
+69,Football Jersey Home Kit,Sports,Elite Merchants,Lagos Warehouse,347.13,479.33,8,1
+70,Microwave Oven 20L,Fashion,Urban Retail Supply,Port Harcourt Warehouse,420.11,740.36,7,1
+71,Power Bank 20000mAh,Sports,Elite Merchants,Port Harcourt Warehouse,434.77,815.62,3,1
+72,Football Jersey Home Kit,Home,Global Imports,Lagos Warehouse,420.86,511.89,8,1
+73,Yoga Mat Premium,Home,Prime Wholesale,Abuja Warehouse,218.78,381.52,8,1
+74,Power Bank 20000mAh,Electronics,TechSource Ltd,Lagos Warehouse,119.06,189.6,18,1
+75,Football Jersey Home Kit,Beauty,Urban Retail Supply,Port Harcourt Warehouse,204.36,308.59,6,1
+76,Wireless Earbuds X200,Sports,Urban Retail Supply,Port Harcourt Warehouse,447.03,655.08,13,1
+77,Gaming Laptop G5,Fashion,TechSource Ltd,Abuja Warehouse,81.84,142.28,11,1
+78,Yoga Mat Premium,Home,Elite Merchants,Port Harcourt Warehouse,261.53,426.17,5,1
+79,Wireless Earbuds X200,Electronics,Urban Retail Supply,Lagos Warehouse,124.28,217.96,10,0
+80,Electric Kettle 1.7L,Electronics,Global Imports,Abuja Warehouse,294.84,538.78,7,1
+81,Air Fryer 6L,Sports,Prime Wholesale,Lagos Warehouse,432.94,698.31,6,1
+82,Office Chair Ergonomic,Home,TechSource Ltd,Lagos Warehouse,441.38,832.15,8,1
+83,Tablet 10inch,Beauty,Prime Wholesale,Abuja Warehouse,125.98,202.33,4,1
+84,Wrist Watch Chronograph,Home,Urban Retail Supply,Lagos Warehouse,454.77,740.13,13,1
+85,Air Fryer 6L,Sports,Urban Retail Supply,Port Harcourt Warehouse,300.03,469.88,6,0
+86,Men's Running Sneakers,Sports,TechSource Ltd,Lagos Warehouse,181.61,221.25,17,1
+87,Men's Running Sneakers,Home,Global Imports,Abuja Warehouse,357.01,605.06,8,1
+88,Wireless Earbuds X200,Sports,Naija Distributors,Abuja Warehouse,246.02,383.94,19,1
+89,Stainless Steel Cookware Set,Home,TechSource Ltd,Abuja Warehouse,195.21,290.51,8,1
+90,Smartphone 128GB,Fashion,Naija Distributors,Lagos Warehouse,355.49,651.56,4,1
+91,Gaming Laptop G5,Home,Elite Merchants,Abuja Warehouse,131.87,181.12,17,1
+92,Yoga Mat Premium,Home,Naija Distributors,Abuja Warehouse,171.82,265.07,13,0
+93,Gaming Laptop G5,Sports,Global Imports,Lagos Warehouse,222.88,372.93,10,1
+94,Yoga Mat Premium,Sports,Elite Merchants,Port Harcourt Warehouse,134.3,234.67,15,1
+95,Air Fryer 6L,Electronics,Naija Distributors,Lagos Warehouse,208.55,311.68,14,1
+96,Electric Kettle 1.7L,Electronics,Elite Merchants,Abuja Warehouse,290.02,516.69,7,1
+97,4K Smart TV 55inch,Fashion,Naija Distributors,Abuja Warehouse,373.08,644.19,8,1
+98,Wireless Earbuds X200,Electronics,Global Imports,Lagos Warehouse,385.93,462.99,6,1
+99,LED Desk Lamp,Home,Naija Distributors,Port Harcourt Warehouse,413.17,489.36,3,1
+100,Stainless Steel Cookware Set,Sports,Naija Distributors,Abuja Warehouse,374.66,605.3,19,1
+101,Men's Running Sneakers,Electronics,Naija Distributors,Abuja Warehouse,343.71,484.82,14,1
+102,Electric Kettle 1.7L,Electronics,TechSource Ltd,Abuja Warehouse,126.38,165.16,17,0
+103,Air Fryer 6L,Fashion,TechSource Ltd,Lagos Warehouse,206.11,326.63,3,1
+104,Men's Running Sneakers,Fashion,TechSource Ltd,Abuja Warehouse,244.08,343.22,16,1
+105,Wireless Earbuds X200,Home,Global Imports,Port Harcourt Warehouse,50.62,78.61,8,1
+106,Men's Running Sneakers,Sports,Elite Merchants,Abuja Warehouse,268.9,402.03,7,1
+107,Stainless Steel Cookware Set,Fashion,Urban Retail Supply,Abuja Warehouse,223.8,355.52,13,1
+108,Power Bank 20000mAh,Electronics,Naija Distributors,Port Harcourt Warehouse,403.03,584.48,6,1
+109,Hair Dryer Professional,Sports,Naija Distributors,Abuja Warehouse,489.17,818.5,15,1
+110,Men's Running Sneakers,Sports,Global Imports,Lagos Warehouse,282.44,362.95,13,1
+111,Wireless Earbuds X200,Electronics,Naija Distributors,Lagos Warehouse,168.12,281.16,5,1
+112,Stainless Steel Cookware Set,Fashion,TechSource Ltd,Lagos Warehouse,31.27,45.61,3,1
+113,Hair Dryer Professional,Electronics,Urban Retail Supply,Port Harcourt Warehouse,463.08,836.2,8,1
+114,Gaming Laptop G5,Sports,Prime Wholesale,Abuja Warehouse,460.37,707.32,20,1
+115,Yoga Mat Premium,Beauty,Naija Distributors,Lagos Warehouse,133.97,251.84,12,1
+116,Power Bank 20000mAh,Beauty,TechSource Ltd,Port Harcourt Warehouse,350.75,561.71,7,1
+117,Power Bank 20000mAh,Home,Prime Wholesale,Abuja Warehouse,46.96,61.89,12,1
+118,Smartphone 128GB,Electronics,Urban Retail Supply,Port Harcourt Warehouse,91.45,161.53,14,1
+119,Football Jersey Home Kit,Electronics,Prime Wholesale,Lagos Warehouse,116.24,163.76,4,1
+120,Tablet 10inch,Home,TechSource Ltd,Lagos Warehouse,154.3,217.67,15,0

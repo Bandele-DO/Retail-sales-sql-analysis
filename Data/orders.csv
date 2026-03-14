@@ -1,0 +1,1501 @@
+order_id,customer_id,order_date,status,payment_method,shipping_method,order_channel,delivery_date
+1,26,2024-12-06,Completed,Bank Transfer,Express,Website,2024-12-12
+2,213,2024-05-07,Completed,Card,Standard,Mobile App,2024-05-09
+3,86,2024-10-27,Completed,Card,Express,Mobile App,2024-11-01
+4,250,2024-09-23,Cancelled,Cash on Delivery,Standard,Mobile App,2024-09-28
+5,135,2024-11-16,Completed,Cash on Delivery,Express,Mobile App,2024-11-20
+6,14,2024-02-18,Completed,Cash on Delivery,Pickup,Mobile App,2024-02-20
+7,79,2024-08-27,Completed,Card,Pickup,Website,2024-08-29
+8,117,2024-10-02,Completed,Bank Transfer,Pickup,Mobile App,2024-10-03
+9,7,2024-11-14,Completed,Bank Transfer,Express,Mobile App,2024-11-15
+10,137,2024-10-04,Completed,Card,Express,Website,2024-10-08
+11,115,2024-02-25,,Wallet,Pickup,Mobile App,2024-02-28
+12,176,2024-07-01,Completed,Bank Transfer,Pickup,Mobile App,2024-07-07
+13,72,2024-08-26,Completed,Cash on Delivery,Standard,Website,2024-08-29
+14,242,2024-10-25,Completed,Wallet,Standard,Website,2024-10-28
+15,59,2024-08-28,Completed,Wallet,Standard,Website,2024-08-30
+16,215,2024-11-29,Completed,Bank Transfer,Pickup,Mobile App,2024-12-05
+17,221,2024-06-08,Completed,Wallet,Pickup,Website,2024-06-10
+18,82,2024-09-11,Completed,Wallet,Pickup,Website,2024-09-17
+19,223,2024-09-04,Returned,Bank Transfer,Standard,Website,2024-09-09
+20,222,2024-07-19,Completed,Bank Transfer,Express,Mobile App,2024-07-21
+21,116,2024-08-01,Completed,Wallet,Pickup,Website,2024-08-03
+22,167,2024-06-16,Completed,Cash on Delivery,Express,Mobile App,2024-06-18
+23,227,2024-10-11,Completed,Card,Express,Mobile App,2024-10-15
+24,146,2024-10-02,Completed,Wallet,Express,Website,2024-10-04
+25,187,2024-08-31,Completed,Wallet,Standard,Mobile App,2024-09-01
+26,234,2024-07-30,Completed,Cash on Delivery,Express,Mobile App,2024-07-31
+27,103,2024-07-01,Completed,Wallet,Pickup,Website,2024-07-07
+28,17,2024-08-14,Completed,Wallet,Standard,Mobile App,2024-08-19
+29,14,2024-05-05,Completed,Card,Pickup,Website,2024-05-09
+30,159,2024-09-28,Completed,Card,Pickup,Mobile App,2024-10-04
+31,152,2024-03-29,Completed,Card,Standard,Mobile App,2024-03-30
+32,227,2024-04-20,Completed,Bank Transfer,Pickup,Website,2024-04-24
+33,108,2024-03-22,Completed,Bank Transfer,Pickup,Website,2024-03-26
+34,188,2024-02-29,Returned,Card,Standard,Mobile App,2024-03-05
+35,45,2024-12-30,Completed,Card,Pickup,Mobile App,2025-01-03
+36,98,2024-03-21,Completed,Bank Transfer,Express,Website,2024-03-23
+37,131,2024-09-20,Completed,Cash on Delivery,Pickup,Mobile App,2024-09-24
+38,37,2024-09-12,Completed,Wallet,Express,Mobile App,2024-09-17
+39,171,2024-07-02,Completed,Wallet,Pickup,Mobile App,2024-07-08
+40,168,2024-10-06,Completed,Card,Standard,Mobile App,2024-10-11
+41,218,2024-07-28,Completed,Cash on Delivery,Standard,Website,2024-08-02
+42,183,2024-08-04,Completed,Bank Transfer,Pickup,Website,2024-08-05
+43,215,2024-03-18,Completed,Card,Standard,Website,2024-03-20
+44,108,2024-02-11,Completed,Cash on Delivery,Pickup,Website,2024-02-12
+45,39,2024-11-24,Completed,Cash on Delivery,Standard,Website,2024-11-30
+46,15,2024-11-18,Returned,Cash on Delivery,Express,Website,2024-11-21
+47,120,2024-02-13,Completed,Bank Transfer,Pickup,Mobile App,2024-02-19
+48,241,2024-09-25,Completed,Bank Transfer,Express,Website,2024-09-27
+49,4,2024-01-29,Returned,Wallet,Express,Mobile App,2024-02-02
+50,93,2024-04-13,Completed,Wallet,Pickup,Mobile App,2024-04-18
+51,214,2024-05-13,Completed,Cash on Delivery,Express,Mobile App,2024-05-16
+52,153,2024-12-12,Completed,Cash on Delivery,Pickup,Website,2024-12-14
+53,141,2024-09-24,Cancelled,Bank Transfer,Express,Mobile App,2024-09-25
+54,210,2024-11-03,Completed,Wallet,Pickup,Website,2024-11-08
+55,161,2024-12-16,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-22
+56,16,2024-05-21,Completed,Wallet,Standard,Mobile App,2024-05-22
+57,237,2024-02-17,Returned,Wallet,Pickup,Website,2024-02-19
+58,170,2024-07-27,Completed,Cash on Delivery,Pickup,Mobile App,2024-07-29
+59,108,2024-12-31,Completed,Bank Transfer,Express,Mobile App,2025-01-06
+60,126,2024-06-09,Completed,Cash on Delivery,Pickup,Mobile App,2024-06-12
+61,194,2024-02-09,Completed,Cash on Delivery,Standard,Mobile App,2024-02-15
+62,55,2024-05-31,Completed,Wallet,Express,Website,2024-06-04
+63,227,2024-12-16,Returned,Cash on Delivery,Express,Mobile App,2024-12-17
+64,170,2024-07-23,Completed,Bank Transfer,Standard,Mobile App,2024-07-26
+65,34,2024-08-20,Completed,Cash on Delivery,Express,Website,2024-08-25
+66,158,2024-12-20,Completed,Bank Transfer,Express,Mobile App,2024-12-24
+67,247,2024-08-26,Cancelled,Bank Transfer,Express,Mobile App,2024-08-29
+68,13,2024-02-20,Completed,Wallet,Express,Mobile App,2024-02-21
+69,141,2024-10-06,Completed,Card,Standard,Mobile App,2024-10-08
+70,18,2024-05-19,Cancelled,Card,Standard,Website,2024-05-24
+71,160,2024-10-05,Cancelled,Wallet,Express,Mobile App,2024-10-11
+72,96,2024-02-23,Cancelled,Cash on Delivery,Express,Website,2024-02-24
+73,227,2024-01-23,Returned,Wallet,Standard,Mobile App,2024-01-27
+74,123,2024-12-16,Completed,Bank Transfer,Standard,Mobile App,2024-12-20
+75,39,2024-05-28,Completed,Card,Standard,Mobile App,2024-05-30
+76,46,2024-12-09,Completed,Wallet,Express,Website,2024-12-11
+77,244,2024-10-17,Cancelled,Cash on Delivery,Express,Mobile App,2024-10-22
+78,29,2024-08-10,Completed,Wallet,Pickup,Mobile App,2024-08-16
+79,190,2024-08-31,Completed,Card,Standard,Website,2024-09-05
+80,241,2024-01-01,Completed,Wallet,Express,Website,2024-01-03
+81,221,2024-01-19,Completed,Wallet,Standard,Website,2024-01-21
+82,62,2024-05-09,Completed,Card,Express,Website,2024-05-13
+83,245,2024-08-08,Returned,Bank Transfer,Standard,Mobile App,2024-08-10
+84,236,2024-09-21,Returned,Bank Transfer,Express,Mobile App,2024-09-24
+85,185,2024-01-17,Completed,Card,Pickup,Mobile App,2024-01-18
+86,16,2024-08-30,Completed,Wallet,Pickup,Mobile App,2024-09-01
+87,184,2024-02-10,Completed,Card,Standard,Website,2024-02-15
+88,236,2024-09-11,Completed,Bank Transfer,Express,Mobile App,2024-09-17
+89,239,2024-04-19,Cancelled,Cash on Delivery,Express,Mobile App,2024-04-25
+90,121,2024-12-14,Completed,Wallet,Standard,Mobile App,2024-12-20
+91,10,2024-08-22,Completed,Bank Transfer,Express,Mobile App,2024-08-25
+92,158,2024-05-13,Cancelled,Wallet,Standard,Website,2024-05-18
+93,153,2024-07-17,Completed,Card,Express,Mobile App,2024-07-20
+94,103,2024-09-09,Completed,Cash on Delivery,Standard,Mobile App,2024-09-11
+95,84,2024-08-25,Completed,Card,Express,Mobile App,2024-08-26
+96,133,2024-08-17,Completed,Cash on Delivery,Standard,Website,2024-08-23
+97,65,2024-06-02,Completed,Wallet,Express,Website,2024-06-07
+98,222,2024-09-13,Completed,Wallet,Pickup,Mobile App,2024-09-19
+99,177,2024-12-10,Completed,Card,Express,Mobile App,2024-12-13
+100,3,2024-01-08,Cancelled,Cash on Delivery,Standard,Mobile App,2024-01-12
+101,173,2024-06-12,Completed,Cash on Delivery,Pickup,Website,2024-06-14
+102,142,2024-10-02,Completed,Wallet,Express,Mobile App,2024-10-03
+103,120,2024-08-27,Completed,Card,Pickup,Mobile App,2024-08-29
+104,158,2024-01-16,Completed,Cash on Delivery,Express,Mobile App,2024-01-20
+105,242,2024-06-17,Completed,Wallet,Pickup,Website,2024-06-18
+106,68,2024-02-07,Completed,Bank Transfer,Standard,Mobile App,2024-02-11
+107,146,2024-03-14,Completed,Card,Express,Mobile App,2024-03-16
+108,190,2024-07-28,Returned,Bank Transfer,Express,Website,2024-07-31
+109,37,2024-01-03,Completed,Card,Standard,Website,2024-01-05
+110,153,2024-03-08,Completed,Wallet,Pickup,Mobile App,2024-03-10
+111,176,2024-05-02,Cancelled,Cash on Delivery,Standard,Website,2024-05-04
+112,193,2024-09-05,Completed,Cash on Delivery,Standard,Mobile App,2024-09-10
+113,181,2024-10-26,Completed,Cash on Delivery,Pickup,Website,2024-10-30
+114,238,2024-05-27,Completed,Card,Standard,Website,2024-05-31
+115,207,2024-06-08,Completed,Wallet,Express,Mobile App,2024-06-14
+116,73,2024-10-06,Completed,Bank Transfer,Express,Mobile App,2024-10-10
+117,143,2024-07-20,Completed,Wallet,Express,Mobile App,2024-07-26
+118,49,2024-01-28,Completed,Bank Transfer,Standard,Website,2024-02-02
+119,121,2024-09-22,Completed,Card,Express,Mobile App,2024-09-25
+120,88,2024-06-18,Completed,Card,Express,Mobile App,2024-06-24
+121,196,2024-05-06,Completed,Bank Transfer,Express,Mobile App,2024-05-08
+122,140,2024-08-14,Completed,Bank Transfer,Express,Mobile App,2024-08-17
+123,187,2024-07-09,Completed,Bank Transfer,Express,Mobile App,2024-07-14
+124,250,2024-06-05,Completed,Wallet,Express,Website,2024-06-09
+125,37,2024-02-24,Returned,Bank Transfer,Standard,Mobile App,2024-03-01
+126,61,2024-07-31,Completed,Card,Express,Mobile App,2024-08-02
+127,229,2024-02-23,Completed,Card,Express,Website,2024-02-24
+128,171,2024-05-05,Completed,Cash on Delivery,Pickup,Mobile App,2024-05-06
+129,124,2024-08-31,Completed,Bank Transfer,Standard,Mobile App,2024-09-03
+130,198,2024-11-18,Cancelled,Wallet,Standard,Mobile App,2024-11-22
+131,39,2024-01-12,Returned,Wallet,Standard,Mobile App,2024-01-13
+132,184,2024-09-27,Completed,Wallet,Standard,Mobile App,2024-09-30
+133,63,2024-10-18,Completed,Cash on Delivery,Express,Website,2024-10-23
+134,46,2024-07-04,Completed,Card,Express,Website,2024-07-07
+135,88,2024-02-26,Cancelled,Wallet,Pickup,Website,2024-02-29
+136,11,2024-07-13,Completed,Card,Pickup,Mobile App,2024-07-16
+137,62,2024-11-07,Completed,Cash on Delivery,Standard,Website,2024-11-09
+138,77,2024-11-21,Completed,Bank Transfer,Pickup,Mobile App,2024-11-24
+139,226,2024-08-07,Completed,Bank Transfer,Pickup,Mobile App,2024-08-13
+140,153,2024-06-13,Completed,Bank Transfer,Standard,Mobile App,2024-06-16
+141,199,2024-03-14,Completed,Wallet,Standard,Website,2024-03-16
+142,52,2024-11-09,Completed,Bank Transfer,Pickup,Website,2024-11-11
+143,4,2024-10-21,Completed,Wallet,Express,Website,2024-10-26
+144,59,2024-03-21,Completed,Cash on Delivery,Pickup,Mobile App,2024-03-25
+145,72,2024-03-19,Completed,Cash on Delivery,Pickup,Website,2024-03-20
+146,148,2024-08-10,Completed,Wallet,Express,Mobile App,2024-08-11
+147,93,2024-12-08,Completed,Card,Express,Website,2024-12-11
+148,63,2024-01-25,Completed,Bank Transfer,Standard,Website,2024-01-30
+149,54,2024-07-31,Completed,Bank Transfer,Standard,Mobile App,2024-08-03
+150,117,2024-06-26,Completed,Bank Transfer,Pickup,Mobile App,2024-06-27
+151,243,2024-12-06,Completed,Wallet,Express,Website,2024-12-08
+152,237,2024-08-24,Completed,Cash on Delivery,Standard,Website,2024-08-28
+153,110,2024-01-15,Completed,Bank Transfer,Pickup,Website,2024-01-20
+154,74,2024-06-07,Cancelled,Cash on Delivery,Express,Mobile App,2024-06-09
+155,107,2024-01-10,Completed,Bank Transfer,Pickup,Mobile App,2024-01-14
+156,226,2024-07-27,Cancelled,Bank Transfer,Standard,Website,2024-08-01
+157,57,2024-11-10,Completed,Wallet,Standard,Website,2024-11-15
+158,218,2024-09-28,Completed,Card,Express,Mobile App,2024-09-29
+159,169,2024-01-19,Completed,Wallet,Pickup,Website,2024-01-21
+160,241,2024-09-19,Completed,Bank Transfer,Express,Mobile App,2024-09-24
+161,250,2024-09-19,Completed,Bank Transfer,Standard,Mobile App,2024-09-25
+162,3,2024-10-09,Completed,Card,Standard,Mobile App,2024-10-14
+163,120,2024-10-08,Completed,Cash on Delivery,Pickup,Mobile App,2024-10-12
+164,6,2024-11-06,Completed,Cash on Delivery,Pickup,Mobile App,2024-11-07
+165,5,2024-09-14,Completed,Bank Transfer,Pickup,Mobile App,2024-09-17
+166,5,2024-07-18,Completed,Cash on Delivery,Express,Website,2024-07-19
+167,54,2024-09-27,Completed,Bank Transfer,Pickup,Mobile App,2024-09-30
+168,47,2024-03-02,Completed,Card,Pickup,Mobile App,2024-03-04
+169,215,2024-03-17,Completed,Card,Standard,Website,2024-03-19
+170,177,2024-09-11,Completed,Bank Transfer,Standard,Mobile App,2024-09-16
+171,9,2024-07-09,Completed,Card,Pickup,Website,2024-07-15
+172,99,2024-08-15,Completed,Wallet,Pickup,Mobile App,2024-08-17
+173,20,2024-02-06,Returned,Wallet,Standard,Website,2024-02-11
+174,122,2024-07-14,Returned,Card,Pickup,Website,2024-07-15
+175,241,2024-04-25,Completed,Bank Transfer,Express,Mobile App,2024-04-27
+176,61,2024-05-17,Completed,Bank Transfer,Express,Mobile App,2024-05-18
+177,123,2024-01-15,Completed,Card,Express,Mobile App,2024-01-16
+178,234,2024-04-15,Completed,Cash on Delivery,Pickup,Mobile App,2024-04-21
+179,163,2024-12-27,Completed,Wallet,Standard,Website,2024-12-29
+180,178,2024-04-11,Completed,Cash on Delivery,Pickup,Website,2024-04-12
+181,82,2024-05-11,Cancelled,Bank Transfer,Pickup,Website,2024-05-17
+182,62,2024-03-28,Completed,Bank Transfer,Standard,Mobile App,2024-04-03
+183,145,2024-02-06,Completed,Cash on Delivery,Standard,Website,2024-02-08
+184,216,2024-04-11,Completed,Card,Standard,Mobile App,2024-04-17
+185,3,2024-06-13,Completed,Cash on Delivery,Express,Mobile App,2024-06-15
+186,160,2024-08-22,Completed,Cash on Delivery,Pickup,Website,2024-08-24
+187,227,2024-07-10,Completed,Wallet,Standard,Mobile App,2024-07-13
+188,230,2024-08-29,Completed,Wallet,Pickup,Website,2024-08-30
+189,13,2024-09-21,Completed,Cash on Delivery,Express,Mobile App,2024-09-25
+190,120,2024-12-08,Cancelled,Cash on Delivery,Express,Website,2024-12-10
+191,125,2024-04-29,Completed,Bank Transfer,Standard,Mobile App,2024-04-30
+192,239,2024-04-06,Completed,Wallet,Standard,Website,2024-04-12
+193,89,2024-03-04,Completed,Wallet,Pickup,Website,2024-03-09
+194,73,2024-02-10,Returned,Bank Transfer,Standard,Mobile App,2024-02-12
+195,68,2024-01-02,Completed,Card,Pickup,Mobile App,2024-01-08
+196,142,2024-02-16,Completed,Wallet,Standard,Website,2024-02-22
+197,101,2024-07-11,Cancelled,Wallet,Pickup,Mobile App,2024-07-17
+198,98,2024-04-09,Cancelled,Card,Pickup,Mobile App,2024-04-15
+199,11,2024-01-13,Completed,Wallet,Pickup,Mobile App,2024-01-19
+200,105,2024-05-26,Cancelled,Wallet,Pickup,Website,2024-05-28
+201,184,2024-01-03,Completed,Card,Express,Website,2024-01-07
+202,67,2024-05-18,Completed,Card,Pickup,Mobile App,2024-05-21
+203,123,2024-01-29,Completed,Cash on Delivery,Standard,Mobile App,2024-02-04
+204,220,2024-12-06,Completed,Bank Transfer,Express,Website,2024-12-12
+205,29,2024-09-09,Completed,Bank Transfer,Express,Mobile App,2024-09-12
+206,137,2024-09-24,Completed,Card,Pickup,Website,2024-09-26
+207,195,2024-02-27,Completed,Card,Express,Mobile App,2024-02-28
+208,153,2024-08-04,Completed,Wallet,Pickup,Mobile App,2024-08-09
+209,226,2024-11-23,Completed,Cash on Delivery,Standard,Mobile App,2024-11-28
+210,76,2024-10-14,Completed,Cash on Delivery,Pickup,Website,2024-10-15
+211,170,2024-05-18,Completed,Card,Express,Website,2024-05-20
+212,9,2024-10-23,Completed,Wallet,Standard,Website,2024-10-28
+213,207,2024-06-04,Completed,Wallet,Pickup,Website,2024-06-07
+214,40,2024-04-05,Completed,Bank Transfer,Standard,Mobile App,2024-04-06
+215,25,2024-11-17,Returned,Bank Transfer,Standard,Mobile App,2024-11-21
+216,5,2024-02-07,Completed,Wallet,Express,Website,2024-02-09
+217,139,2024-08-15,Completed,Bank Transfer,Standard,Mobile App,2024-08-16
+218,187,2024-01-09,Completed,Card,Express,Mobile App,2024-01-14
+219,226,2024-03-10,Completed,Wallet,Standard,Website,2024-03-12
+220,216,2024-01-14,Completed,Bank Transfer,Pickup,Mobile App,2024-01-17
+221,124,2024-07-29,Returned,Cash on Delivery,Standard,Mobile App,2024-07-31
+222,207,2024-01-17,Completed,Wallet,Pickup,Website,2024-01-19
+223,38,2024-05-23,Completed,Wallet,Pickup,Mobile App,2024-05-26
+224,72,2024-03-27,Completed,Cash on Delivery,Standard,Mobile App,2024-04-02
+225,133,2024-01-07,Completed,Card,Pickup,Mobile App,2024-01-10
+226,176,2024-11-12,Completed,Cash on Delivery,Standard,Website,2024-11-14
+227,90,2024-07-25,Completed,Wallet,Standard,Website,2024-07-28
+228,146,2024-05-12,Completed,Card,Pickup,Mobile App,2024-05-18
+229,198,2024-01-05,Completed,Bank Transfer,Pickup,Mobile App,2024-01-06
+230,37,2024-09-21,Completed,Bank Transfer,Express,Mobile App,2024-09-24
+231,60,2024-07-16,Returned,Bank Transfer,Pickup,Website,2024-07-19
+232,176,2024-08-05,Completed,Wallet,Express,Website,2024-08-07
+233,205,2024-07-10,Completed,Cash on Delivery,Pickup,Website,2024-07-11
+234,28,2024-08-20,Completed,Card,Standard,Mobile App,2024-08-24
+235,197,2024-02-04,Completed,Bank Transfer,Pickup,Mobile App,2024-02-08
+236,205,2024-04-21,Cancelled,Card,Standard,Mobile App,2024-04-26
+237,81,2024-08-16,Completed,Wallet,Standard,Mobile App,2024-08-19
+238,114,2024-11-15,Completed,Bank Transfer,Standard,Mobile App,2024-11-18
+239,40,2024-12-03,Returned,Wallet,Express,Website,2024-12-04
+240,45,2024-12-19,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-25
+241,224,2024-06-02,Returned,Wallet,Standard,Mobile App,2024-06-06
+242,62,2024-09-10,Completed,Wallet,Standard,Mobile App,2024-09-15
+243,93,2024-06-12,Completed,Cash on Delivery,Express,Website,2024-06-13
+244,115,2024-11-26,Completed,Card,Pickup,Mobile App,2024-11-29
+245,186,2024-02-26,Completed,Cash on Delivery,Pickup,Website,2024-03-01
+246,67,2024-05-08,Returned,Cash on Delivery,Express,Website,2024-05-13
+247,56,2024-12-18,Completed,Wallet,Express,Website,2024-12-20
+248,40,2024-07-29,Completed,Card,Pickup,Website,2024-08-02
+249,98,2024-07-07,Completed,Bank Transfer,Express,Website,2024-07-12
+250,40,2024-06-15,Completed,Cash on Delivery,Pickup,Mobile App,2024-06-16
+251,91,2024-01-12,Completed,Card,Pickup,Mobile App,2024-01-14
+252,205,2024-12-01,Returned,Cash on Delivery,Standard,Website,2024-12-06
+253,237,2024-07-30,Completed,Cash on Delivery,Standard,Website,2024-08-04
+254,33,2024-04-16,Completed,Cash on Delivery,Pickup,Website,2024-04-19
+255,6,2024-01-21,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-27
+256,216,2024-08-05,Completed,Wallet,Pickup,Mobile App,2024-08-09
+257,147,2024-01-03,Completed,Card,Pickup,Website,2024-01-06
+258,80,2024-09-12,Completed,Card,Pickup,Mobile App,2024-09-14
+259,168,2024-06-01,Cancelled,Card,Pickup,Mobile App,2024-06-07
+260,92,2024-10-29,Completed,Cash on Delivery,Express,Website,2024-11-03
+261,97,2024-01-16,Completed,Wallet,Pickup,Website,2024-01-19
+262,59,2024-09-20,Completed,Cash on Delivery,Express,Mobile App,2024-09-26
+263,59,2024-07-14,Cancelled,Cash on Delivery,Express,Mobile App,2024-07-18
+264,48,2024-06-06,Completed,Card,Pickup,Mobile App,2024-06-08
+265,169,2024-01-30,Completed,Cash on Delivery,Pickup,Website,2024-01-31
+266,13,2024-11-29,Completed,Bank Transfer,Express,Website,2024-12-02
+267,107,2024-06-19,Completed,Cash on Delivery,Express,Website,2024-06-21
+268,45,2024-03-18,Completed,Bank Transfer,Pickup,Mobile App,2024-03-19
+269,89,2024-09-01,Completed,Cash on Delivery,Pickup,Mobile App,2024-09-04
+270,181,2024-06-30,Completed,Wallet,Express,Website,2024-07-02
+271,170,2024-05-20,Completed,Wallet,Express,Mobile App,2024-05-22
+272,100,2024-05-07,Returned,Card,Express,Website,2024-05-13
+273,191,2024-02-06,Cancelled,Cash on Delivery,Standard,Mobile App,2024-02-09
+274,155,2024-08-08,Completed,Bank Transfer,Express,Website,2024-08-10
+275,166,2024-08-10,Completed,Bank Transfer,Standard,Mobile App,2024-08-15
+276,188,2024-06-21,Completed,Cash on Delivery,Pickup,Mobile App,2024-06-24
+277,7,2024-09-25,Completed,Bank Transfer,Pickup,Website,2024-09-27
+278,133,2024-11-09,Completed,Wallet,Express,Website,2024-11-15
+279,235,2024-09-07,Completed,Bank Transfer,Pickup,Website,2024-09-08
+280,45,2024-01-08,Completed,Card,Pickup,Website,2024-01-09
+281,58,2024-11-18,Cancelled,Wallet,Pickup,Website,2024-11-23
+282,249,2024-10-18,Completed,Wallet,Pickup,Mobile App,2024-10-21
+283,243,2024-07-15,Completed,Wallet,Standard,Website,2024-07-21
+284,31,2024-08-18,Completed,Cash on Delivery,Standard,Website,2024-08-20
+285,23,2024-09-26,Completed,Cash on Delivery,Express,Website,2024-09-28
+286,170,2024-10-08,Completed,Wallet,Express,Website,2024-10-09
+287,138,2024-08-01,Completed,Cash on Delivery,Express,Website,2024-08-07
+288,160,2024-06-03,Completed,Bank Transfer,Pickup,Mobile App,2024-06-08
+289,107,2024-03-31,Completed,Cash on Delivery,Pickup,Website,2024-04-01
+290,181,2024-06-04,Completed,Cash on Delivery,Standard,Website,2024-06-05
+291,158,2024-05-08,Completed,Wallet,Standard,Website,2024-05-13
+292,39,2024-10-31,Cancelled,Card,Express,Mobile App,2024-11-03
+293,159,2024-11-22,Cancelled,Card,Standard,Mobile App,2024-11-24
+294,82,2024-08-22,Cancelled,Card,Standard,Website,2024-08-25
+295,100,2024-11-28,Completed,Bank Transfer,Standard,Website,2024-12-04
+296,2,2024-04-10,Completed,Cash on Delivery,Standard,Mobile App,2024-04-14
+297,206,2024-01-18,Returned,Card,Standard,Mobile App,2024-01-22
+298,77,2024-08-02,Completed,Wallet,Express,Mobile App,2024-08-06
+299,221,2024-04-28,Completed,Card,Express,Website,2024-05-03
+300,12,2024-08-01,Completed,Card,Standard,Website,2024-08-02
+301,39,2024-12-04,Completed,Cash on Delivery,Express,Mobile App,2024-12-07
+302,194,2024-01-01,Returned,Cash on Delivery,Pickup,Website,2024-01-03
+303,224,2024-07-05,Completed,Cash on Delivery,Standard,Mobile App,2024-07-09
+304,13,2024-08-18,Completed,Bank Transfer,Pickup,Mobile App,2024-08-21
+305,46,2024-06-23,Completed,Bank Transfer,Express,Mobile App,2024-06-27
+306,155,2024-07-27,Completed,Card,Express,Website,2024-07-31
+307,113,2024-05-05,Cancelled,Cash on Delivery,Pickup,Mobile App,2024-05-07
+308,233,2024-03-14,Completed,Card,Express,Mobile App,2024-03-20
+309,17,2024-04-10,Completed,Wallet,Standard,Website,2024-04-16
+310,104,2024-05-16,Returned,Wallet,Pickup,Mobile App,2024-05-22
+311,223,2024-11-08,Completed,Cash on Delivery,Standard,Website,2024-11-13
+312,98,2024-02-04,Completed,Cash on Delivery,Pickup,Mobile App,2024-02-05
+313,188,2024-02-03,Completed,Wallet,Express,Website,2024-02-08
+314,192,2024-02-28,Completed,Cash on Delivery,Pickup,Mobile App,2024-03-02
+315,88,2024-07-18,Completed,Bank Transfer,Pickup,Mobile App,2024-07-23
+316,109,2024-01-05,Completed,Bank Transfer,Standard,Mobile App,2024-01-08
+317,163,2024-04-03,Completed,Cash on Delivery,Express,Mobile App,2024-04-06
+318,240,2024-05-04,Completed,Wallet,Standard,Mobile App,2024-05-05
+319,70,2024-11-05,Returned,Card,Express,Website,2024-11-07
+320,211,2024-09-21,Completed,Cash on Delivery,Standard,Website,2024-09-22
+321,158,2024-06-07,Completed,Cash on Delivery,Pickup,Mobile App,2024-06-13
+322,199,2024-07-12,Completed,Card,Standard,Mobile App,2024-07-18
+323,74,2024-05-12,Completed,Cash on Delivery,Express,Mobile App,2024-05-17
+324,233,2024-05-10,Completed,Card,Express,Website,2024-05-13
+325,224,2024-01-03,Cancelled,Wallet,Pickup,Website,2024-01-07
+326,226,2024-11-07,Returned,Bank Transfer,Express,Mobile App,2024-11-11
+327,63,2024-01-01,Completed,Wallet,Standard,Website,2024-01-04
+328,156,2024-06-05,Returned,Bank Transfer,Pickup,Mobile App,2024-06-06
+329,60,2024-06-20,Completed,Card,Express,Mobile App,2024-06-22
+330,79,2024-02-21,Completed,Bank Transfer,Express,Mobile App,2024-02-22
+331,222,2024-02-19,Completed,Wallet,Standard,Website,2024-02-22
+332,37,2024-05-04,Cancelled,Bank Transfer,Standard,Mobile App,2024-05-07
+333,221,2024-07-15,Completed,Card,Pickup,Mobile App,2024-07-17
+334,22,2024-05-24,Completed,Bank Transfer,Express,Mobile App,2024-05-29
+335,196,2024-07-10,Completed,Cash on Delivery,Standard,Website,2024-07-15
+336,148,2024-05-12,Completed,Wallet,Pickup,Website,2024-05-14
+337,96,2024-01-10,Completed,Cash on Delivery,Express,Website,2024-01-15
+338,228,2024-02-20,Cancelled,Card,Express,Mobile App,2024-02-24
+339,242,2024-03-05,Cancelled,Bank Transfer,Pickup,Website,2024-03-10
+340,68,2024-08-28,Completed,Cash on Delivery,Pickup,Mobile App,2024-09-02
+341,219,2024-05-18,Returned,Cash on Delivery,Standard,Website,2024-05-23
+342,192,2024-04-28,Completed,Bank Transfer,Express,Mobile App,2024-05-02
+343,17,2024-04-10,Returned,Bank Transfer,Express,Website,2024-04-15
+344,12,2024-04-05,Completed,Wallet,Express,Mobile App,2024-04-11
+345,150,2024-01-20,Completed,Cash on Delivery,Pickup,Website,2024-01-24
+346,145,2024-08-06,Completed,Cash on Delivery,Standard,Website,2024-08-08
+347,138,2024-02-25,Cancelled,Card,Express,Website,2024-02-26
+348,118,2024-09-01,Completed,Wallet,Pickup,Mobile App,2024-09-03
+349,193,2024-12-28,Completed,Card,Express,Website,2024-12-29
+350,22,2024-01-07,Completed,Cash on Delivery,Standard,Website,2024-01-09
+351,218,2024-08-10,Completed,Card,Express,Website,2024-08-16
+352,120,2024-08-24,Completed,Cash on Delivery,Standard,Website,2024-08-25
+353,210,2024-09-26,Completed,Cash on Delivery,Standard,Mobile App,2024-09-27
+354,50,2024-09-20,Cancelled,Card,Express,Website,2024-09-23
+355,14,2024-07-22,Completed,Card,Express,Mobile App,2024-07-23
+356,192,2024-05-24,Completed,Bank Transfer,Standard,Mobile App,2024-05-25
+357,175,2024-08-12,Completed,Bank Transfer,Pickup,Mobile App,2024-08-15
+358,29,2024-05-28,Cancelled,Bank Transfer,Standard,Mobile App,2024-06-02
+359,204,2024-07-17,Cancelled,Cash on Delivery,Express,Website,2024-07-22
+360,164,2024-09-12,Completed,Card,Express,Mobile App,2024-09-15
+361,227,2024-03-18,Completed,Wallet,Pickup,Mobile App,2024-03-22
+362,180,2024-09-23,Completed,Cash on Delivery,Standard,Mobile App,2024-09-24
+363,125,2024-10-26,Completed,Wallet,Standard,Mobile App,2024-10-27
+364,204,2024-12-27,Cancelled,Card,Standard,Website,2024-12-30
+365,7,2024-07-31,Completed,Cash on Delivery,Express,Website,2024-08-03
+366,29,2024-11-10,Completed,Wallet,Standard,Mobile App,2024-11-14
+367,139,2024-03-02,Completed,Wallet,Pickup,Mobile App,2024-03-08
+368,33,2024-08-14,Cancelled,Bank Transfer,Express,Mobile App,2024-08-19
+369,134,2024-09-30,Completed,Bank Transfer,Express,Website,2024-10-02
+370,111,2024-01-14,Completed,Bank Transfer,Standard,Website,2024-01-20
+371,79,2024-10-01,Completed,Cash on Delivery,Pickup,Website,2024-10-06
+372,160,2024-02-27,Cancelled,Card,Express,Website,2024-02-28
+373,179,2024-06-14,Completed,Card,Express,Website,2024-06-20
+374,203,2024-12-20,Completed,Bank Transfer,Standard,Mobile App,2024-12-23
+375,58,2024-11-10,Completed,Bank Transfer,Standard,Website,2024-11-14
+376,215,2024-02-07,Completed,Bank Transfer,Pickup,Website,2024-02-12
+377,26,2024-02-09,Completed,Wallet,Standard,Mobile App,2024-02-13
+378,226,2024-03-24,Completed,Bank Transfer,Pickup,Website,2024-03-29
+379,174,2024-08-11,Completed,Wallet,Express,Website,2024-08-17
+380,226,2024-04-13,Completed,Card,Pickup,Website,2024-04-14
+381,29,2024-08-16,Completed,Cash on Delivery,Pickup,Mobile App,2024-08-18
+382,4,2024-06-18,Cancelled,Cash on Delivery,Pickup,Website,2024-06-22
+383,209,2024-03-20,Completed,Cash on Delivery,Express,Mobile App,2024-03-24
+384,99,2024-12-23,Returned,Cash on Delivery,Standard,Mobile App,2024-12-25
+385,141,2024-12-14,Completed,Wallet,Express,Website,2024-12-18
+386,233,2024-05-13,Completed,Wallet,Standard,Website,2024-05-17
+387,39,2024-01-30,Completed,Bank Transfer,Pickup,Website,2024-02-04
+388,15,2024-10-25,Completed,Wallet,Pickup,Website,2024-10-30
+389,119,2024-04-23,Completed,Bank Transfer,Pickup,Mobile App,2024-04-25
+390,29,2024-09-07,Completed,Bank Transfer,Pickup,Website,2024-09-08
+391,157,2024-12-10,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-16
+392,75,2024-01-14,Cancelled,Wallet,Standard,Mobile App,2024-01-20
+393,116,2024-02-16,Completed,Wallet,Standard,Mobile App,2024-02-20
+394,32,2024-08-11,Cancelled,Bank Transfer,Pickup,Mobile App,2024-08-12
+395,130,2024-03-24,Completed,Bank Transfer,Express,Mobile App,2024-03-26
+396,175,2024-05-22,Completed,Card,Express,Website,2024-05-24
+397,206,2024-01-29,Completed,Card,Pickup,Mobile App,2024-02-03
+398,84,2024-10-23,Completed,Bank Transfer,Standard,Mobile App,2024-10-27
+399,22,2024-09-18,Completed,Card,Express,Website,2024-09-21
+400,203,2024-03-24,Completed,Card,Express,Website,2024-03-26
+401,27,2024-05-08,Completed,Bank Transfer,Express,Mobile App,2024-05-12
+402,195,2024-12-18,Completed,Bank Transfer,Pickup,Mobile App,2024-12-19
+403,81,2024-06-14,Completed,Wallet,Express,Website,2024-06-19
+404,126,2024-06-08,Returned,Bank Transfer,Express,Mobile App,2024-06-14
+405,236,2024-06-01,Cancelled,Bank Transfer,Express,Website,2024-06-02
+406,184,2024-07-10,Completed,Cash on Delivery,Express,Website,2024-07-12
+407,92,2024-09-22,Completed,Wallet,Standard,Mobile App,2024-09-24
+408,221,2024-02-11,Completed,Wallet,Pickup,Website,2024-02-12
+409,21,2024-07-17,Completed,Wallet,Pickup,Mobile App,2024-07-19
+410,47,2024-05-31,Returned,Cash on Delivery,Standard,Mobile App,2024-06-04
+411,208,2024-04-05,Completed,Bank Transfer,Standard,Mobile App,2024-04-07
+412,101,2024-05-20,Completed,Wallet,Pickup,Website,2024-05-25
+413,187,2024-04-04,Completed,Wallet,Express,Mobile App,2024-04-08
+414,84,2024-01-07,Completed,Card,Express,Website,2024-01-10
+415,6,2024-09-06,Completed,Wallet,Pickup,Mobile App,2024-09-08
+416,147,2024-11-08,Cancelled,Bank Transfer,Express,Mobile App,2024-11-10
+417,185,2024-01-19,Completed,Bank Transfer,Standard,Website,2024-01-24
+418,197,2024-09-27,Completed,Card,Express,Mobile App,2024-10-02
+419,131,2024-09-12,Returned,Wallet,Express,Mobile App,2024-09-18
+420,1,2024-05-27,Completed,Wallet,Express,Website,2024-05-28
+421,58,2024-06-22,Completed,Wallet,Pickup,Website,2024-06-23
+422,124,2024-05-31,Completed,Cash on Delivery,Standard,Website,2024-06-01
+423,166,2024-10-01,Completed,Wallet,Express,Mobile App,2024-10-06
+424,15,2024-08-18,Returned,Bank Transfer,Pickup,Website,2024-08-19
+425,162,2024-07-06,Completed,Bank Transfer,Express,Website,2024-07-07
+426,189,2024-12-01,Cancelled,Cash on Delivery,Standard,Mobile App,2024-12-04
+427,163,2024-05-02,Completed,Cash on Delivery,Express,Website,2024-05-03
+428,64,2024-08-06,Returned,Wallet,Standard,Mobile App,2024-08-08
+429,241,2024-07-23,Completed,Card,Express,Mobile App,2024-07-29
+430,25,2024-01-08,Cancelled,Cash on Delivery,Standard,Website,2024-01-13
+431,24,2024-09-10,Completed,Cash on Delivery,Express,Mobile App,2024-09-14
+432,12,2024-08-14,Returned,Wallet,Standard,Website,2024-08-20
+433,18,2024-05-03,Completed,Wallet,Express,Website,2024-05-06
+434,15,2024-03-29,Completed,Cash on Delivery,Express,Website,2024-04-03
+435,236,2024-09-03,Cancelled,Card,Pickup,Website,2024-09-08
+436,208,2024-01-01,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-03
+437,27,2024-01-10,Cancelled,Wallet,Standard,Mobile App,2024-01-16
+438,72,2024-04-24,Completed,Wallet,Express,Website,2024-04-30
+439,60,2024-04-05,Completed,Cash on Delivery,Standard,Website,2024-04-06
+440,174,2024-05-13,Completed,Card,Pickup,Mobile App,2024-05-15
+441,217,2024-07-03,Completed,Cash on Delivery,Standard,Website,2024-07-04
+442,145,2024-08-02,Completed,Cash on Delivery,Standard,Mobile App,2024-08-03
+443,93,2024-04-01,Completed,Wallet,Pickup,Website,2024-04-06
+444,53,2024-03-27,Completed,Card,Express,Mobile App,2024-04-02
+445,8,2024-08-21,Completed,Bank Transfer,Standard,Mobile App,2024-08-22
+446,79,2024-07-19,Completed,Card,Pickup,Mobile App,2024-07-22
+447,27,2024-01-30,Completed,Cash on Delivery,Express,Website,2024-02-02
+448,174,2024-12-16,Completed,Cash on Delivery,Pickup,Website,2024-12-22
+449,50,2024-04-04,Completed,Cash on Delivery,Standard,Website,2024-04-07
+450,244,2024-03-15,Completed,Card,Express,Website,2024-03-20
+451,199,2024-09-01,Returned,Wallet,Express,Website,2024-09-03
+452,131,2024-08-06,Cancelled,Cash on Delivery,Pickup,Mobile App,2024-08-10
+453,93,2024-01-26,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-27
+454,192,2024-02-08,Completed,Card,Pickup,Mobile App,2024-02-12
+455,172,2024-02-06,Cancelled,Bank Transfer,Express,Mobile App,2024-02-08
+456,181,2024-06-21,Completed,Bank Transfer,Express,Mobile App,2024-06-23
+457,24,2024-06-19,Completed,Wallet,Standard,Mobile App,2024-06-24
+458,60,2024-03-14,Completed,Wallet,Express,Mobile App,2024-03-17
+459,122,2024-09-20,Completed,Cash on Delivery,Standard,Website,2024-09-23
+460,131,2024-08-21,Completed,Card,Pickup,Mobile App,2024-08-23
+461,148,2024-06-19,Completed,Cash on Delivery,Pickup,Website,2024-06-24
+462,46,2024-05-25,Returned,Wallet,Express,Mobile App,2024-05-30
+463,15,2024-09-22,Cancelled,Card,Pickup,Mobile App,2024-09-28
+464,153,2024-06-15,Completed,Card,Pickup,Website,2024-06-16
+465,222,2024-01-17,Completed,Wallet,Express,Mobile App,2024-01-20
+466,206,2024-02-04,Cancelled,Bank Transfer,Standard,Website,2024-02-06
+467,199,2024-12-15,Completed,Bank Transfer,Express,Mobile App,2024-12-21
+468,17,2024-02-21,Completed,Card,Standard,Website,2024-02-25
+469,126,2024-08-13,Completed,Cash on Delivery,Express,Mobile App,2024-08-16
+470,236,2024-03-07,Returned,Bank Transfer,Express,Website,2024-03-08
+471,84,2024-09-26,Completed,Cash on Delivery,Pickup,Website,2024-10-01
+472,228,2024-07-30,Cancelled,Bank Transfer,Express,Mobile App,2024-08-01
+473,9,2024-04-04,Cancelled,Bank Transfer,Express,Mobile App,2024-04-07
+474,166,2024-12-18,Completed,Cash on Delivery,Standard,Website,2024-12-22
+475,176,2024-09-21,Completed,Wallet,Pickup,Mobile App,2024-09-22
+476,249,2024-02-14,Completed,Bank Transfer,Standard,Website,2024-02-15
+477,188,2024-10-01,Completed,Bank Transfer,Standard,Mobile App,2024-10-07
+478,63,2024-09-21,Completed,Cash on Delivery,Pickup,Website,2024-09-24
+479,214,2024-10-12,Completed,Wallet,Pickup,Mobile App,2024-10-16
+480,246,2024-09-22,Completed,Bank Transfer,Pickup,Website,2024-09-23
+481,245,2024-02-01,Cancelled,Bank Transfer,Express,Mobile App,2024-02-03
+482,117,2024-05-22,Completed,Wallet,Pickup,Website,2024-05-23
+483,130,2024-10-20,Completed,Bank Transfer,Pickup,Website,2024-10-24
+484,88,2024-12-20,Completed,Wallet,Pickup,Mobile App,2024-12-25
+485,72,2024-01-26,Completed,Wallet,Standard,Mobile App,2024-01-31
+486,139,2024-06-15,Completed,Cash on Delivery,Standard,Website,2024-06-21
+487,64,2024-08-04,Completed,Card,Express,Website,2024-08-07
+488,205,2024-01-01,Completed,Wallet,Standard,Website,2024-01-05
+489,209,2024-07-01,Completed,Cash on Delivery,Express,Website,2024-07-07
+490,72,2024-12-13,Completed,Card,Standard,Mobile App,2024-12-14
+491,21,2024-06-24,Completed,Bank Transfer,Pickup,Website,2024-06-25
+492,18,2024-05-14,Completed,Card,Standard,Website,2024-05-19
+493,222,2024-01-25,Returned,Wallet,Express,Website,2024-01-31
+494,64,2024-11-25,Completed,Wallet,Standard,Mobile App,2024-11-30
+495,82,2024-02-05,Completed,Wallet,Pickup,Website,2024-02-07
+496,110,2024-03-10,Completed,Wallet,Express,Mobile App,2024-03-15
+497,239,2024-07-03,Completed,Wallet,Pickup,Mobile App,2024-07-05
+498,95,2024-10-01,Completed,Cash on Delivery,Pickup,Mobile App,2024-10-02
+499,166,2024-09-12,Completed,Wallet,Express,Mobile App,2024-09-18
+500,32,2024-01-25,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-27
+501,11,2024-01-02,Completed,Bank Transfer,Pickup,Mobile App,2024-01-08
+502,45,2024-04-30,Completed,Wallet,Standard,Mobile App,2024-05-06
+503,217,2024-12-22,Completed,Wallet,Pickup,Website,2024-12-24
+504,33,2024-05-22,Completed,Card,Pickup,Website,2024-05-25
+505,102,2024-11-28,Returned,Bank Transfer,Pickup,Mobile App,2024-12-03
+506,169,2024-01-24,Completed,Wallet,Pickup,Website,2024-01-26
+507,136,2024-07-09,Completed,Wallet,Express,Website,2024-07-10
+508,11,2024-04-21,Completed,Bank Transfer,Standard,Mobile App,2024-04-27
+509,214,2024-12-25,Completed,Cash on Delivery,Pickup,Website,2024-12-29
+510,179,2024-01-23,Completed,Wallet,Pickup,Mobile App,2024-01-25
+511,88,2024-08-22,Completed,Card,Express,Website,2024-08-27
+512,41,2024-06-06,Completed,Wallet,Pickup,Mobile App,2024-06-12
+513,145,2024-01-10,Completed,Card,Express,Mobile App,2024-01-13
+514,76,2024-11-14,Completed,Card,Standard,Website,2024-11-15
+515,121,2024-01-02,Completed,Wallet,Standard,Website,2024-01-05
+516,46,2024-01-11,Completed,Wallet,Pickup,Mobile App,2024-01-15
+517,160,2024-02-20,Completed,Card,Pickup,Mobile App,2024-02-22
+518,207,2024-12-01,Completed,Bank Transfer,Pickup,Mobile App,2024-12-07
+519,80,2024-03-27,Cancelled,Bank Transfer,Express,Website,2024-03-29
+520,54,2024-08-11,Completed,Wallet,Pickup,Website,2024-08-16
+521,86,2024-12-06,Completed,Cash on Delivery,Pickup,Website,2024-12-08
+522,92,2024-06-08,Completed,Bank Transfer,Standard,Website,2024-06-09
+523,148,2024-02-15,Returned,Wallet,Pickup,Mobile App,2024-02-19
+524,161,2024-10-30,Completed,Bank Transfer,Standard,Mobile App,2024-11-02
+525,202,2024-10-29,Completed,Cash on Delivery,Pickup,Mobile App,2024-11-02
+526,168,2024-11-20,Completed,Wallet,Standard,Mobile App,2024-11-26
+527,160,2024-10-23,Completed,Cash on Delivery,Pickup,Website,2024-10-25
+528,242,2024-11-06,Completed,Wallet,Standard,Mobile App,2024-11-12
+529,97,2024-09-12,Completed,Cash on Delivery,Express,Mobile App,2024-09-15
+530,2,2024-08-05,Cancelled,Bank Transfer,Standard,Website,2024-08-11
+531,225,2024-01-03,Completed,Bank Transfer,Standard,Website,2024-01-08
+532,33,2024-10-07,Completed,Cash on Delivery,Standard,Mobile App,2024-10-11
+533,233,2024-05-02,Returned,Cash on Delivery,Pickup,Website,2024-05-05
+534,205,2024-10-30,Completed,Cash on Delivery,Pickup,Mobile App,2024-11-02
+535,158,2024-03-23,Completed,Wallet,Pickup,Website,2024-03-26
+536,161,2024-10-11,Completed,Bank Transfer,Express,Website,2024-10-12
+537,77,2024-08-27,Completed,Wallet,Express,Mobile App,2024-08-31
+538,116,2024-08-01,Completed,Bank Transfer,Standard,Website,2024-08-07
+539,154,2024-04-07,Returned,Card,Express,Mobile App,2024-04-10
+540,150,2024-05-08,Completed,Wallet,Standard,Website,2024-05-12
+541,103,2024-04-05,Completed,Bank Transfer,Standard,Website,2024-04-08
+542,194,2024-08-14,Completed,Bank Transfer,Standard,Website,2024-08-19
+543,166,2024-03-16,Cancelled,Wallet,Express,Website,2024-03-21
+544,103,2024-01-07,Returned,Wallet,Pickup,Website,2024-01-12
+545,90,2024-11-08,Cancelled,Bank Transfer,Express,Mobile App,2024-11-10
+546,174,2024-02-18,Completed,Wallet,Standard,Website,2024-02-21
+547,122,2024-08-24,Completed,Cash on Delivery,Standard,Mobile App,2024-08-26
+548,242,2024-11-30,Completed,Wallet,Express,Website,2024-12-04
+549,143,2024-01-20,Completed,Wallet,Standard,Mobile App,2024-01-22
+550,226,2024-08-09,Completed,Wallet,Standard,Website,2024-08-13
+551,106,2024-10-31,Completed,Bank Transfer,Express,Mobile App,2024-11-04
+552,119,2024-02-05,Completed,Cash on Delivery,Express,Mobile App,2024-02-09
+553,172,2024-11-17,Completed,Card,Express,Website,2024-11-23
+554,49,2024-06-17,Completed,Card,Standard,Website,2024-06-19
+555,104,2024-05-07,Completed,Cash on Delivery,Standard,Website,2024-05-13
+556,203,2024-12-17,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-20
+557,61,2024-04-04,Completed,Cash on Delivery,Pickup,Mobile App,2024-04-06
+558,195,2024-07-05,Completed,Bank Transfer,Express,Website,2024-07-08
+559,123,2024-07-14,Completed,Card,Pickup,Website,2024-07-17
+560,134,2024-11-22,Completed,Cash on Delivery,Standard,Mobile App,2024-11-26
+561,9,2024-11-25,Completed,Bank Transfer,Pickup,Mobile App,2024-11-27
+562,6,2024-04-29,Completed,Card,Standard,Website,2024-05-02
+563,73,2024-03-24,Returned,Wallet,Express,Mobile App,2024-03-29
+564,103,2024-10-23,Completed,Bank Transfer,Express,Website,2024-10-26
+565,223,2024-08-16,Completed,Card,Standard,Website,2024-08-21
+566,160,2024-01-21,Completed,Bank Transfer,Pickup,Website,2024-01-23
+567,41,2024-01-26,Completed,Card,Express,Mobile App,2024-02-01
+568,114,2024-07-19,Completed,Card,Express,Mobile App,2024-07-21
+569,204,2024-01-23,Completed,Wallet,Pickup,Mobile App,2024-01-29
+570,8,2024-04-20,Returned,Bank Transfer,Pickup,Mobile App,2024-04-26
+571,72,2024-01-16,Completed,Cash on Delivery,Standard,Website,2024-01-18
+572,178,2024-03-12,Cancelled,Wallet,Pickup,Mobile App,2024-03-15
+573,92,2024-04-29,Completed,Wallet,Pickup,Website,2024-04-30
+574,62,2024-11-21,Completed,Card,Pickup,Website,2024-11-24
+575,84,2024-06-29,Returned,Cash on Delivery,Standard,Website,2024-07-02
+576,62,2024-06-12,Completed,Bank Transfer,Standard,Mobile App,2024-06-16
+577,111,2024-05-02,Completed,Cash on Delivery,Express,Website,2024-05-06
+578,127,2024-04-13,Completed,Cash on Delivery,Standard,Website,2024-04-16
+579,7,2024-05-12,Completed,Cash on Delivery,Express,Mobile App,2024-05-17
+580,203,2024-04-25,Completed,Cash on Delivery,Pickup,Website,2024-05-01
+581,84,2024-06-10,Completed,Cash on Delivery,Express,Mobile App,2024-06-14
+582,208,2024-05-08,Completed,Card,Express,Mobile App,2024-05-11
+583,132,2024-01-26,Completed,Card,Pickup,Mobile App,2024-01-27
+584,134,2024-01-19,Completed,Wallet,Express,Website,2024-01-24
+585,58,2024-11-18,Completed,Card,Standard,Mobile App,2024-11-20
+586,22,2024-10-05,Completed,Wallet,Standard,Mobile App,2024-10-08
+587,154,2024-06-11,Completed,Wallet,Standard,Mobile App,2024-06-14
+588,127,2024-12-23,Completed,Bank Transfer,Standard,Mobile App,2024-12-29
+589,3,2024-06-07,Completed,Cash on Delivery,Express,Website,2024-06-12
+590,127,2024-10-11,Cancelled,Card,Express,Mobile App,2024-10-15
+591,41,2024-03-08,Completed,Bank Transfer,Pickup,Website,2024-03-12
+592,188,2024-05-04,Completed,Card,Express,Mobile App,2024-05-08
+593,106,2024-07-27,Completed,Wallet,Express,Website,2024-07-29
+594,14,2024-01-31,Completed,Card,Express,Mobile App,2024-02-05
+595,203,2024-09-24,Completed,Cash on Delivery,Pickup,Website,2024-09-29
+596,210,2024-04-14,Completed,Wallet,Standard,Mobile App,2024-04-18
+597,246,2024-11-25,Completed,Wallet,Express,Website,2024-11-29
+598,12,2024-04-07,Completed,Bank Transfer,Pickup,Website,2024-04-13
+599,87,2024-07-29,Cancelled,Cash on Delivery,Pickup,Website,2024-07-30
+600,12,2024-03-07,Cancelled,Wallet,Pickup,Mobile App,2024-03-08
+601,141,2024-07-08,Returned,Cash on Delivery,Standard,Website,2024-07-11
+602,25,2024-05-16,Completed,Card,Express,Website,2024-05-19
+603,45,2024-09-19,Completed,Cash on Delivery,Pickup,Website,2024-09-24
+604,243,2024-05-24,Completed,Wallet,Standard,Website,2024-05-29
+605,122,2024-10-03,Completed,Bank Transfer,Pickup,Mobile App,2024-10-05
+606,147,2024-07-22,Completed,Wallet,Pickup,Website,2024-07-24
+607,55,2024-11-28,Completed,Cash on Delivery,Pickup,Website,2024-11-29
+608,238,2024-09-04,Completed,Cash on Delivery,Pickup,Website,2024-09-07
+609,100,2024-12-16,Completed,Wallet,Pickup,Mobile App,2024-12-17
+610,173,2024-11-05,Completed,Cash on Delivery,Standard,Website,2024-11-06
+611,136,2024-03-19,Completed,Card,Express,Website,2024-03-22
+612,221,2024-03-31,Completed,Wallet,Express,Website,2024-04-02
+613,119,2024-11-26,Cancelled,Bank Transfer,Express,Website,2024-12-02
+614,53,2024-09-11,Completed,Wallet,Express,Mobile App,2024-09-17
+615,183,2024-02-02,Completed,Card,Standard,Website,2024-02-08
+616,32,2024-09-26,Completed,Card,Standard,Website,2024-09-29
+617,51,2024-03-14,Completed,Card,Standard,Mobile App,2024-03-18
+618,44,2024-12-26,Completed,Card,Pickup,Mobile App,2024-12-30
+619,82,2024-04-02,Completed,Card,Pickup,Mobile App,2024-04-06
+620,198,2024-10-12,Completed,Bank Transfer,Pickup,Website,2024-10-17
+621,146,2024-05-12,Completed,Cash on Delivery,Express,Mobile App,2024-05-14
+622,211,2024-09-10,Completed,Card,Pickup,Website,2024-09-12
+623,150,2024-04-13,Completed,Card,Express,Mobile App,2024-04-18
+624,37,2024-07-18,Completed,Wallet,Pickup,Website,2024-07-19
+625,96,2024-10-10,Completed,Bank Transfer,Express,Mobile App,2024-10-16
+626,56,2024-12-08,Completed,Bank Transfer,Pickup,Website,2024-12-12
+627,105,2024-05-08,Returned,Cash on Delivery,Pickup,Mobile App,2024-05-14
+628,59,2024-01-08,Completed,Bank Transfer,Standard,Website,2024-01-12
+629,131,2024-06-23,Completed,Wallet,Pickup,Website,2024-06-29
+630,156,2024-04-25,Completed,Wallet,Pickup,Website,2024-04-26
+631,202,2024-05-06,Completed,Cash on Delivery,Standard,Website,2024-05-12
+632,243,2024-05-25,Completed,Wallet,Express,Website,2024-05-31
+633,35,2024-09-14,Completed,Card,Standard,Website,2024-09-17
+634,189,2024-01-01,Returned,Card,Standard,Website,2024-01-07
+635,93,2024-04-01,Completed,Wallet,Express,Website,2024-04-04
+636,182,2024-02-20,Completed,Cash on Delivery,Pickup,Mobile App,2024-02-22
+637,191,2024-04-07,Completed,Bank Transfer,Express,Website,2024-04-12
+638,207,2024-06-22,Completed,Cash on Delivery,Pickup,Website,2024-06-28
+639,97,2024-06-16,Completed,Bank Transfer,Pickup,Mobile App,2024-06-18
+640,135,2024-11-26,Completed,Wallet,Express,Website,2024-11-29
+641,76,2024-01-22,Completed,Wallet,Standard,Mobile App,2024-01-28
+642,49,2024-07-29,Completed,Card,Express,Website,2024-08-04
+643,94,2024-01-13,Completed,Bank Transfer,Pickup,Mobile App,2024-01-14
+644,213,2024-11-16,Returned,Cash on Delivery,Express,Mobile App,2024-11-18
+645,159,2024-01-03,Completed,Wallet,Express,Website,2024-01-07
+646,186,2024-11-20,Returned,Cash on Delivery,Pickup,Mobile App,2024-11-24
+647,189,2024-04-06,Completed,Card,Standard,Website,2024-04-07
+648,24,2024-10-04,Cancelled,Bank Transfer,Express,Website,2024-10-07
+649,148,2024-11-27,Completed,Bank Transfer,Pickup,Website,2024-12-01
+650,37,2024-04-20,Cancelled,Wallet,Pickup,Website,2024-04-24
+651,4,2024-05-10,Returned,Bank Transfer,Express,Mobile App,2024-05-15
+652,220,2024-01-14,Completed,Wallet,Standard,Website,2024-01-16
+653,108,2024-04-30,Returned,Card,Express,Mobile App,2024-05-03
+654,126,2024-05-19,Completed,Bank Transfer,Standard,Mobile App,2024-05-25
+655,20,2024-06-03,Completed,Wallet,Standard,Website,2024-06-05
+656,188,2024-03-24,Completed,Cash on Delivery,Standard,Website,2024-03-27
+657,152,2024-11-01,Completed,Wallet,Standard,Website,2024-11-05
+658,50,2024-10-25,Completed,Bank Transfer,Express,Website,2024-10-30
+659,177,2024-03-23,Completed,Card,Pickup,Mobile App,2024-03-25
+660,179,2024-12-02,Completed,Bank Transfer,Pickup,Website,2024-12-06
+661,96,2024-06-22,Completed,Bank Transfer,Pickup,Mobile App,2024-06-25
+662,105,2024-12-21,Cancelled,Wallet,Pickup,Website,2024-12-23
+663,164,2024-11-20,Completed,Cash on Delivery,Pickup,Website,2024-11-26
+664,250,2024-01-12,Completed,Bank Transfer,Pickup,Website,2024-01-14
+665,117,2024-03-14,Completed,Cash on Delivery,Express,Website,2024-03-18
+666,98,2024-03-07,Completed,Wallet,Standard,Mobile App,2024-03-09
+667,228,2024-01-04,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-10
+668,66,2024-05-21,Completed,Wallet,Express,Website,2024-05-26
+669,79,2024-05-29,Completed,Card,Pickup,Mobile App,2024-06-03
+670,162,2024-10-01,Returned,Cash on Delivery,Pickup,Mobile App,2024-10-05
+671,164,2024-12-14,Completed,Cash on Delivery,Standard,Website,2024-12-17
+672,6,2024-12-03,Completed,Card,Standard,Website,2024-12-07
+673,39,2024-02-27,Completed,Cash on Delivery,Standard,Mobile App,2024-03-03
+674,170,2024-06-20,Completed,Card,Pickup,Mobile App,2024-06-21
+675,243,2024-07-31,Completed,Bank Transfer,Pickup,Mobile App,2024-08-01
+676,115,2024-09-28,Completed,Wallet,Pickup,Mobile App,2024-09-30
+677,186,2024-05-28,Completed,Card,Standard,Website,2024-06-03
+678,246,2024-09-03,Completed,Cash on Delivery,Express,Website,2024-09-05
+679,125,2024-04-20,Returned,Card,Pickup,Mobile App,2024-04-21
+680,12,2024-08-28,Cancelled,Cash on Delivery,Pickup,Website,2024-09-02
+681,131,2024-09-06,Completed,Bank Transfer,Pickup,Mobile App,2024-09-08
+682,237,2024-06-16,Completed,Card,Express,Mobile App,2024-06-20
+683,18,2024-09-20,Completed,Bank Transfer,Pickup,Website,2024-09-26
+684,40,2024-12-10,Completed,Wallet,Express,Mobile App,2024-12-14
+685,21,2024-06-26,Completed,Cash on Delivery,Pickup,Mobile App,2024-07-02
+686,143,2024-07-25,Completed,Cash on Delivery,Express,Website,2024-07-30
+687,225,2024-02-20,Completed,Bank Transfer,Pickup,Website,2024-02-22
+688,99,2024-07-02,Completed,Wallet,Standard,Mobile App,2024-07-08
+689,26,2024-10-26,Completed,Card,Standard,Mobile App,2024-10-30
+690,8,2024-09-14,Returned,Card,Standard,Website,2024-09-16
+691,100,2024-05-24,Returned,Cash on Delivery,Standard,Mobile App,2024-05-26
+692,240,2024-08-16,Completed,Bank Transfer,Pickup,Mobile App,2024-08-20
+693,222,2024-12-28,Completed,Bank Transfer,Standard,Website,2024-12-29
+694,87,2024-12-04,Cancelled,Card,Express,Website,2024-12-10
+695,42,2024-09-13,Completed,Wallet,Standard,Website,2024-09-17
+696,172,2024-07-12,Completed,Wallet,Standard,Website,2024-07-17
+697,14,2024-08-30,Completed,Card,Standard,Website,2024-09-02
+698,78,2024-08-26,Completed,Card,Pickup,Website,2024-08-30
+699,2,2024-02-01,Completed,Bank Transfer,Standard,Mobile App,2024-02-03
+700,119,2024-03-26,Cancelled,Wallet,Express,Mobile App,2024-03-28
+701,37,2024-03-13,Returned,Card,Standard,Website,2024-03-17
+702,69,2024-01-13,Completed,Card,Standard,Website,2024-01-16
+703,166,2024-01-11,Completed,Cash on Delivery,Standard,Mobile App,2024-01-15
+704,237,2024-04-23,Returned,Card,Express,Mobile App,2024-04-26
+705,41,2024-11-01,Completed,Card,Standard,Mobile App,2024-11-04
+706,62,2024-03-08,Cancelled,Wallet,Express,Website,2024-03-13
+707,246,2024-02-14,Completed,Bank Transfer,Express,Website,2024-02-20
+708,60,2024-11-27,Completed,Wallet,Standard,Mobile App,2024-11-29
+709,125,2024-02-02,Completed,Bank Transfer,Express,Website,2024-02-04
+710,111,2024-06-09,Completed,Cash on Delivery,Pickup,Website,2024-06-12
+711,14,2024-04-05,Completed,Card,Standard,Website,2024-04-07
+712,248,2024-11-20,Completed,Cash on Delivery,Standard,Mobile App,2024-11-21
+713,231,2024-03-08,Completed,Bank Transfer,Express,Mobile App,2024-03-11
+714,217,2024-11-25,Completed,Wallet,Express,Website,2024-11-27
+715,84,2024-09-30,Completed,Wallet,Standard,Website,2024-10-01
+716,130,2024-02-23,Cancelled,Cash on Delivery,Pickup,Website,2024-02-28
+717,231,2024-11-24,Returned,Bank Transfer,Express,Website,2024-11-26
+718,70,2024-10-14,Completed,Cash on Delivery,Express,Website,2024-10-15
+719,145,2024-01-11,Cancelled,Cash on Delivery,Pickup,Mobile App,2024-01-15
+720,123,2024-01-27,Completed,Card,Pickup,Website,2024-02-02
+721,89,2024-05-18,Completed,Cash on Delivery,Standard,Website,2024-05-22
+722,249,2024-07-13,Returned,Card,Pickup,Website,2024-07-14
+723,28,2024-12-14,Completed,Card,Standard,Mobile App,2024-12-17
+724,66,2024-08-27,Completed,Wallet,Pickup,Mobile App,2024-08-30
+725,163,2024-04-07,Cancelled,Card,Express,Website,2024-04-09
+726,229,2024-03-19,Completed,Card,Standard,Mobile App,2024-03-23
+727,5,2024-02-13,Cancelled,Wallet,Standard,Mobile App,2024-02-16
+728,193,2024-04-09,Cancelled,Cash on Delivery,Standard,Mobile App,2024-04-12
+729,168,2024-10-18,Completed,Bank Transfer,Pickup,Mobile App,2024-10-22
+730,204,2024-07-01,Cancelled,Bank Transfer,Express,Mobile App,2024-07-06
+731,184,2024-05-05,Completed,Bank Transfer,Standard,Mobile App,2024-05-08
+732,164,2024-02-28,Completed,Cash on Delivery,Standard,Website,2024-03-05
+733,45,2024-08-27,Completed,Card,Standard,Mobile App,2024-08-28
+734,151,2024-05-13,Returned,Bank Transfer,Standard,Mobile App,2024-05-15
+735,47,2024-02-20,Completed,Cash on Delivery,Express,Website,2024-02-23
+736,31,2024-09-18,Completed,Card,Pickup,Website,2024-09-24
+737,139,2024-05-28,Completed,Wallet,Express,Website,2024-06-03
+738,10,2024-07-18,Completed,Bank Transfer,Standard,Website,2024-07-21
+739,195,2024-10-20,Completed,Card,Express,Mobile App,2024-10-25
+740,118,2024-11-20,Completed,Bank Transfer,Standard,Mobile App,2024-11-21
+741,14,2024-09-19,Completed,Bank Transfer,Pickup,Mobile App,2024-09-21
+742,80,2024-05-11,Completed,Bank Transfer,Pickup,Mobile App,2024-05-14
+743,202,2024-02-18,Cancelled,Card,Pickup,Website,2024-02-20
+744,93,2024-12-18,Completed,Cash on Delivery,Standard,Mobile App,2024-12-22
+745,10,2024-02-28,Completed,Card,Express,Mobile App,2024-03-05
+746,76,2024-03-28,Returned,Bank Transfer,Pickup,Website,2024-04-03
+747,94,2024-06-21,Completed,Card,Standard,Mobile App,2024-06-24
+748,105,2024-03-31,Returned,Wallet,Standard,Mobile App,2024-04-03
+749,1,2024-12-20,Completed,Cash on Delivery,Express,Mobile App,2024-12-24
+750,133,2024-10-24,Cancelled,Card,Pickup,Mobile App,2024-10-29
+751,20,2024-07-21,Completed,Wallet,Standard,Website,2024-07-24
+752,8,2024-02-02,Completed,Cash on Delivery,Express,Website,2024-02-08
+753,171,2024-05-11,Completed,Wallet,Pickup,Website,2024-05-13
+754,204,2024-02-10,Cancelled,Cash on Delivery,Express,Website,2024-02-11
+755,1,2024-12-25,Completed,Card,Express,Website,2024-12-27
+756,57,2024-06-05,Completed,Wallet,Standard,Mobile App,2024-06-10
+757,64,2024-08-15,Completed,Bank Transfer,Standard,Mobile App,2024-08-16
+758,118,2024-05-02,Completed,Wallet,Standard,Website,2024-05-04
+759,212,2024-09-14,Completed,Cash on Delivery,Express,Website,2024-09-16
+760,28,2024-10-13,Completed,Card,Standard,Website,2024-10-17
+761,121,2024-04-05,Cancelled,Cash on Delivery,Express,Mobile App,2024-04-10
+762,107,2024-03-21,Completed,Wallet,Express,Website,2024-03-27
+763,165,2024-02-02,Completed,Wallet,Standard,Mobile App,2024-02-06
+764,175,2024-05-31,Completed,Bank Transfer,Pickup,Mobile App,2024-06-01
+765,229,2024-07-13,Completed,Card,Pickup,Mobile App,2024-07-19
+766,204,2024-08-21,Completed,Card,Pickup,Mobile App,2024-08-25
+767,165,2024-04-11,Completed,Wallet,Express,Website,2024-04-16
+768,49,2024-09-22,Completed,Card,Express,Mobile App,2024-09-25
+769,241,2024-07-15,Completed,Bank Transfer,Express,Mobile App,2024-07-18
+770,120,2024-02-26,Completed,Cash on Delivery,Standard,Website,2024-02-27
+771,44,2024-01-27,Cancelled,Card,Express,Mobile App,2024-01-30
+772,56,2024-11-15,Returned,Wallet,Standard,Mobile App,2024-11-19
+773,156,2024-08-31,Completed,Cash on Delivery,Standard,Mobile App,2024-09-01
+774,111,2024-08-21,Returned,Cash on Delivery,Pickup,Website,2024-08-27
+775,207,2024-05-31,Completed,Bank Transfer,Pickup,Mobile App,2024-06-05
+776,134,2024-11-21,Completed,Wallet,Pickup,Mobile App,2024-11-22
+777,108,2024-03-30,Completed,Card,Standard,Website,2024-04-05
+778,189,2024-09-18,Completed,Wallet,Standard,Website,2024-09-19
+779,148,2024-11-25,Completed,Cash on Delivery,Standard,Mobile App,2024-11-27
+780,114,2024-04-15,Completed,Wallet,Express,Mobile App,2024-04-17
+781,78,2024-08-08,Completed,Card,Standard,Website,2024-08-09
+782,130,2024-12-27,Completed,Card,Pickup,Mobile App,2024-12-30
+783,201,2024-11-07,Completed,Bank Transfer,Pickup,Website,2024-11-09
+784,37,2024-01-04,Completed,Card,Standard,Mobile App,2024-01-09
+785,20,2024-01-07,Completed,Card,Standard,Website,2024-01-13
+786,26,2024-04-20,Completed,Wallet,Pickup,Mobile App,2024-04-24
+787,29,2024-06-13,Cancelled,Wallet,Standard,Website,2024-06-15
+788,1,2024-02-01,Returned,Cash on Delivery,Pickup,Website,2024-02-02
+789,119,2024-05-24,Completed,Bank Transfer,Express,Website,2024-05-27
+790,35,2024-02-24,Returned,Wallet,Pickup,Website,2024-02-28
+791,198,2024-06-22,Completed,Card,Express,Website,2024-06-28
+792,229,2024-03-20,Completed,Cash on Delivery,Standard,Mobile App,2024-03-26
+793,245,2024-09-04,Completed,Wallet,Standard,Mobile App,2024-09-06
+794,59,2024-07-22,Completed,Bank Transfer,Express,Website,2024-07-28
+795,69,2024-08-11,Returned,Bank Transfer,Standard,Mobile App,2024-08-17
+796,161,2024-10-15,Completed,Cash on Delivery,Express,Mobile App,2024-10-18
+797,241,2024-02-14,Completed,Cash on Delivery,Standard,Mobile App,2024-02-17
+798,179,2024-12-10,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-13
+799,206,2024-10-24,Completed,Cash on Delivery,Standard,Mobile App,2024-10-25
+800,12,2024-04-29,Cancelled,Cash on Delivery,Pickup,Mobile App,2024-05-05
+801,234,2024-12-23,Completed,Card,Pickup,Website,2024-12-29
+802,20,2024-08-25,Completed,Card,Express,Mobile App,2024-08-31
+803,181,2024-12-30,Completed,Wallet,Standard,Mobile App,2025-01-04
+804,242,2024-11-07,Completed,Bank Transfer,Express,Mobile App,2024-11-10
+805,216,2024-05-21,Completed,Card,Standard,Website,2024-05-25
+806,43,2024-07-12,Completed,Card,Pickup,Mobile App,2024-07-14
+807,126,2024-04-13,Completed,Card,Pickup,Mobile App,2024-04-17
+808,226,2024-05-23,Completed,Wallet,Standard,Mobile App,2024-05-24
+809,217,2024-03-19,Cancelled,Cash on Delivery,Standard,Website,2024-03-20
+810,50,2024-04-29,Cancelled,Wallet,Express,Mobile App,2024-05-05
+811,29,2024-04-13,Completed,Bank Transfer,Standard,Website,2024-04-17
+812,185,2024-03-16,Completed,Bank Transfer,Standard,Mobile App,2024-03-22
+813,39,2024-07-29,Completed,Bank Transfer,Standard,Website,2024-08-03
+814,223,2024-02-09,Completed,Bank Transfer,Express,Website,2024-02-10
+815,184,2024-03-13,Completed,Card,Standard,Website,2024-03-14
+816,239,2024-08-17,Completed,Card,Pickup,Mobile App,2024-08-21
+817,171,2024-11-02,Completed,Wallet,Express,Website,2024-11-03
+818,178,2024-12-24,Completed,Cash on Delivery,Express,Website,2024-12-29
+819,151,2024-07-14,Completed,Bank Transfer,Pickup,Website,2024-07-19
+820,172,2024-08-25,Completed,Wallet,Pickup,Website,2024-08-30
+821,38,2024-11-15,Completed,Card,Pickup,Mobile App,2024-11-17
+822,84,2024-09-10,Completed,Card,Standard,Mobile App,2024-09-15
+823,151,2024-08-29,Completed,Cash on Delivery,Pickup,Mobile App,2024-09-03
+824,128,2024-11-08,Completed,Cash on Delivery,Standard,Mobile App,2024-11-10
+825,126,2024-12-15,Completed,Cash on Delivery,Express,Website,2024-12-21
+826,45,2024-12-22,Completed,Wallet,Express,Mobile App,2024-12-25
+827,52,2024-09-01,Completed,Card,Pickup,Website,2024-09-02
+828,80,2024-08-22,Completed,Card,Standard,Mobile App,2024-08-27
+829,178,2024-08-29,Cancelled,Cash on Delivery,Pickup,Mobile App,2024-08-30
+830,234,2024-08-31,Completed,Bank Transfer,Pickup,Mobile App,2024-09-04
+831,124,2024-08-06,Completed,Cash on Delivery,Standard,Website,2024-08-07
+832,119,2024-01-01,Completed,Wallet,Pickup,Mobile App,2024-01-07
+833,8,2024-11-25,Completed,Cash on Delivery,Express,Mobile App,2024-11-27
+834,242,2024-11-15,Completed,Cash on Delivery,Pickup,Mobile App,2024-11-16
+835,85,2024-09-22,Completed,Wallet,Standard,Website,2024-09-23
+836,129,2024-09-06,Completed,Cash on Delivery,Standard,Mobile App,2024-09-07
+837,247,2024-01-31,Cancelled,Card,Express,Mobile App,2024-02-03
+838,8,2024-10-07,Completed,Bank Transfer,Standard,Website,2024-10-10
+839,157,2024-12-18,Completed,Cash on Delivery,Standard,Website,2024-12-22
+840,96,2024-10-04,Cancelled,Wallet,Express,Mobile App,2024-10-06
+841,102,2024-07-04,Completed,Bank Transfer,Pickup,Mobile App,2024-07-05
+842,5,2024-07-29,Returned,Wallet,Express,Mobile App,2024-07-30
+843,239,2024-06-29,Completed,Bank Transfer,Pickup,Website,2024-06-30
+844,86,2024-05-26,Returned,Bank Transfer,Express,Website,2024-05-27
+845,175,2024-03-31,Completed,Cash on Delivery,Pickup,Website,2024-04-03
+846,34,2024-07-05,Completed,Card,Express,Mobile App,2024-07-11
+847,193,2024-02-19,Completed,Cash on Delivery,Pickup,Website,2024-02-25
+848,55,2024-05-15,Completed,Wallet,Express,Mobile App,2024-05-19
+849,119,2024-04-16,Completed,Wallet,Pickup,Website,2024-04-21
+850,218,2024-11-02,Completed,Bank Transfer,Express,Website,2024-11-04
+851,171,2024-12-30,Completed,Bank Transfer,Standard,Website,2025-01-05
+852,202,2024-09-17,Completed,Card,Pickup,Mobile App,2024-09-18
+853,158,2024-08-02,Completed,Cash on Delivery,Express,Mobile App,2024-08-08
+854,114,2024-01-27,Completed,Wallet,Pickup,Mobile App,2024-01-31
+855,210,2024-10-12,Returned,Bank Transfer,Pickup,Mobile App,2024-10-17
+856,145,2024-11-23,Completed,Card,Express,Website,2024-11-29
+857,26,2024-03-23,Returned,Wallet,Pickup,Mobile App,2024-03-27
+858,136,2024-02-14,Completed,Bank Transfer,Express,Website,2024-02-17
+859,47,2024-04-29,Completed,Wallet,Standard,Mobile App,2024-05-04
+860,232,2024-12-29,Completed,Card,Pickup,Mobile App,2025-01-02
+861,113,2024-05-04,Completed,Card,Standard,Website,2024-05-10
+862,76,2024-08-13,Completed,Wallet,Pickup,Website,2024-08-16
+863,219,2024-03-04,Completed,Cash on Delivery,Pickup,Mobile App,2024-03-08
+864,72,2024-08-19,Completed,Wallet,Pickup,Mobile App,2024-08-23
+865,89,2024-04-10,Returned,Bank Transfer,Express,Website,2024-04-16
+866,46,2024-09-30,Completed,Cash on Delivery,Standard,Website,2024-10-05
+867,196,2024-08-21,Completed,Bank Transfer,Pickup,Website,2024-08-24
+868,33,2024-11-19,Completed,Wallet,Express,Website,2024-11-20
+869,1,2024-05-30,Completed,Cash on Delivery,Pickup,Website,2024-06-01
+870,147,2024-01-19,Completed,Bank Transfer,Express,Mobile App,2024-01-24
+871,31,2024-09-07,Completed,Wallet,Pickup,Mobile App,2024-09-10
+872,208,2024-08-23,Completed,Wallet,Standard,Mobile App,2024-08-27
+873,142,2024-06-18,Completed,Cash on Delivery,Standard,Mobile App,2024-06-21
+874,53,2024-05-01,Completed,Wallet,Pickup,Website,2024-05-03
+875,48,2024-04-06,Cancelled,Card,Express,Website,2024-04-12
+876,69,2024-05-18,Cancelled,Bank Transfer,Pickup,Website,2024-05-20
+877,105,2024-05-01,Completed,Bank Transfer,Express,Mobile App,2024-05-02
+878,90,2024-03-12,Completed,Wallet,Pickup,Website,2024-03-13
+879,190,2024-07-30,Completed,Wallet,Express,Website,2024-08-01
+880,220,2024-08-17,Cancelled,Card,Standard,Mobile App,2024-08-22
+881,194,2024-09-05,Completed,Cash on Delivery,Pickup,Mobile App,2024-09-10
+882,242,2024-06-21,Completed,Wallet,Standard,Mobile App,2024-06-25
+883,192,2024-07-21,Completed,Wallet,Standard,Website,2024-07-22
+884,198,2024-05-30,Completed,Wallet,Pickup,Website,2024-06-03
+885,63,2024-06-01,Completed,Wallet,Pickup,Mobile App,2024-06-02
+886,73,2024-11-03,Completed,Bank Transfer,Express,Mobile App,2024-11-05
+887,161,2024-09-22,Completed,Wallet,Express,Website,2024-09-27
+888,169,2024-07-22,Completed,Bank Transfer,Standard,Mobile App,2024-07-27
+889,89,2024-08-27,Completed,Wallet,Express,Website,2024-08-29
+890,176,2024-06-15,Completed,Cash on Delivery,Express,Mobile App,2024-06-19
+891,13,2024-04-12,Completed,Card,Pickup,Mobile App,2024-04-16
+892,73,2024-03-02,Completed,Cash on Delivery,Express,Mobile App,2024-03-05
+893,245,2024-10-08,Cancelled,Wallet,Standard,Website,2024-10-09
+894,77,2024-02-13,Completed,Wallet,Express,Website,2024-02-17
+895,159,2024-09-13,Completed,Wallet,Standard,Mobile App,2024-09-15
+896,233,2024-04-21,Completed,Cash on Delivery,Pickup,Website,2024-04-25
+897,203,2024-03-14,Completed,Wallet,Standard,Mobile App,2024-03-19
+898,68,2024-11-12,Completed,Cash on Delivery,Express,Mobile App,2024-11-13
+899,98,2024-04-22,Completed,Bank Transfer,Pickup,Website,2024-04-28
+900,125,2024-05-24,Cancelled,Card,Express,Website,2024-05-27
+901,102,2024-09-21,Completed,Card,Pickup,Website,2024-09-22
+902,238,2024-04-07,Completed,Cash on Delivery,Pickup,Website,2024-04-12
+903,132,2024-11-22,Completed,Bank Transfer,Express,Mobile App,2024-11-27
+904,102,2024-04-25,Completed,Cash on Delivery,Express,Website,2024-04-30
+905,19,2024-04-17,Completed,Bank Transfer,Pickup,Website,2024-04-22
+906,198,2024-04-27,Completed,Wallet,Pickup,Mobile App,2024-04-29
+907,226,2024-08-28,Completed,Bank Transfer,Express,Mobile App,2024-08-31
+908,82,2024-02-01,Completed,Bank Transfer,Standard,Mobile App,2024-02-07
+909,141,2024-02-15,Completed,Bank Transfer,Express,Mobile App,2024-02-20
+910,233,2024-05-07,Completed,Card,Pickup,Website,2024-05-12
+911,23,2024-03-29,Completed,Bank Transfer,Express,Website,2024-04-02
+912,83,2024-07-10,Completed,Wallet,Standard,Mobile App,2024-07-13
+913,109,2024-11-23,Returned,Wallet,Express,Mobile App,2024-11-24
+914,75,2024-12-06,Completed,Wallet,Pickup,Website,2024-12-09
+915,129,2024-11-30,Completed,Bank Transfer,Express,Website,2024-12-03
+916,88,2024-10-29,Completed,Cash on Delivery,Pickup,Website,2024-11-04
+917,54,2024-12-26,Completed,Cash on Delivery,Pickup,Website,2024-12-29
+918,199,2024-02-06,Completed,Wallet,Express,Website,2024-02-12
+919,89,2024-08-06,Completed,Card,Pickup,Mobile App,2024-08-11
+920,213,2024-11-03,Returned,Cash on Delivery,Pickup,Mobile App,2024-11-08
+921,143,2024-09-09,Completed,Bank Transfer,Standard,Mobile App,2024-09-11
+922,65,2024-07-17,Completed,Cash on Delivery,Standard,Mobile App,2024-07-23
+923,76,2024-07-25,Completed,Wallet,Standard,Website,2024-07-31
+924,250,2024-10-17,Cancelled,Card,Standard,Mobile App,2024-10-18
+925,199,2024-12-12,Completed,Cash on Delivery,Pickup,Website,2024-12-16
+926,143,2024-10-15,Completed,Cash on Delivery,Express,Website,2024-10-18
+927,149,2024-08-12,Completed,Wallet,Pickup,Website,2024-08-13
+928,147,2024-04-21,Completed,Card,Pickup,Website,2024-04-27
+929,60,2024-05-12,Completed,Card,Pickup,Website,2024-05-13
+930,93,2024-02-12,Completed,Wallet,Express,Website,2024-02-14
+931,217,2024-06-22,Completed,Bank Transfer,Standard,Website,2024-06-26
+932,161,2024-01-08,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-14
+933,49,2024-08-04,Completed,Bank Transfer,Pickup,Website,2024-08-10
+934,224,2024-08-08,Completed,Cash on Delivery,Standard,Mobile App,2024-08-11
+935,241,2024-10-17,Completed,Cash on Delivery,Pickup,Mobile App,2024-10-21
+936,35,2024-08-15,Returned,Bank Transfer,Express,Website,2024-08-17
+937,172,2024-03-25,Cancelled,Wallet,Pickup,Website,2024-03-30
+938,102,2024-07-31,Completed,Wallet,Pickup,Mobile App,2024-08-01
+939,218,2024-03-04,Cancelled,Cash on Delivery,Standard,Mobile App,2024-03-07
+940,11,2024-01-01,Completed,Wallet,Pickup,Mobile App,2024-01-07
+941,99,2024-12-05,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-10
+942,200,2024-02-13,Completed,Wallet,Express,Website,2024-02-15
+943,110,2024-09-28,Completed,Cash on Delivery,Standard,Website,2024-10-02
+944,206,2024-11-24,Completed,Wallet,Standard,Website,2024-11-25
+945,74,2024-06-26,Completed,Card,Express,Mobile App,2024-06-29
+946,194,2024-01-18,Completed,Bank Transfer,Pickup,Website,2024-01-24
+947,174,2024-11-12,Completed,Card,Standard,Mobile App,2024-11-18
+948,9,2024-09-07,Completed,Bank Transfer,Standard,Website,2024-09-12
+949,3,2024-07-18,Completed,Bank Transfer,Pickup,Mobile App,2024-07-23
+950,85,2024-11-06,Completed,Cash on Delivery,Pickup,Website,2024-11-07
+951,26,2024-11-01,Completed,Bank Transfer,Standard,Website,2024-11-05
+952,72,2024-07-24,Returned,Card,Pickup,Mobile App,2024-07-26
+953,48,2024-10-03,Returned,Card,Standard,Mobile App,2024-10-07
+954,194,2024-04-15,Completed,Wallet,Pickup,Mobile App,2024-04-19
+955,198,2024-03-23,Returned,Card,Pickup,Mobile App,2024-03-27
+956,156,2024-03-08,Completed,Wallet,Express,Mobile App,2024-03-09
+957,117,2024-01-11,Returned,Bank Transfer,Pickup,Website,2024-01-12
+958,221,2024-06-26,Completed,Card,Express,Mobile App,2024-06-28
+959,154,2024-07-16,Completed,Bank Transfer,Pickup,Website,2024-07-20
+960,153,2024-10-20,Completed,Card,Standard,Website,2024-10-21
+961,12,2024-07-13,Completed,Card,Standard,Website,2024-07-15
+962,133,2024-01-09,Completed,Wallet,Pickup,Website,2024-01-15
+963,226,2024-10-13,Completed,Bank Transfer,Pickup,Website,2024-10-15
+964,48,2024-12-12,Completed,Card,Standard,Mobile App,2024-12-16
+965,37,2024-03-12,Completed,Cash on Delivery,Pickup,Mobile App,2024-03-15
+966,207,2024-06-18,Completed,Bank Transfer,Express,Website,2024-06-22
+967,44,2024-01-06,Cancelled,Bank Transfer,Express,Website,2024-01-09
+968,228,2024-07-12,Completed,Bank Transfer,Express,Mobile App,2024-07-14
+969,15,2024-03-29,Completed,Wallet,Express,Mobile App,2024-04-04
+970,43,2024-03-05,Completed,Cash on Delivery,Express,Website,2024-03-11
+971,176,2024-09-10,Completed,Bank Transfer,Pickup,Mobile App,2024-09-11
+972,87,2024-09-19,Completed,Card,Pickup,Mobile App,2024-09-25
+973,70,2024-04-09,Returned,Card,Express,Mobile App,2024-04-14
+974,46,2024-09-11,Completed,Wallet,Pickup,Website,2024-09-13
+975,242,2024-02-10,Completed,Card,Pickup,Mobile App,2024-02-11
+976,108,2024-09-30,Cancelled,Bank Transfer,Express,Website,2024-10-06
+977,123,2024-03-09,Completed,Card,Pickup,Website,2024-03-11
+978,171,2024-06-22,Completed,Bank Transfer,Pickup,Website,2024-06-26
+979,237,2024-06-28,Completed,Card,Pickup,Website,2024-07-04
+980,21,2024-11-07,Completed,Cash on Delivery,Express,Website,2024-11-10
+981,151,2024-11-11,Completed,Wallet,Pickup,Mobile App,2024-11-13
+982,107,2024-11-19,Completed,Wallet,Standard,Website,2024-11-20
+983,247,2024-01-19,Completed,Cash on Delivery,Standard,Website,2024-01-23
+984,80,2024-01-23,Returned,Cash on Delivery,Express,Website,2024-01-28
+985,47,2024-01-05,Completed,Wallet,Standard,Mobile App,2024-01-09
+986,117,2024-12-18,Completed,Cash on Delivery,Express,Mobile App,2024-12-24
+987,124,2024-05-12,Completed,Bank Transfer,Standard,Mobile App,2024-05-15
+988,143,2024-03-16,Completed,Card,Standard,Mobile App,2024-03-20
+989,25,2024-04-26,Completed,Wallet,Standard,Mobile App,2024-05-01
+990,36,2024-03-08,Completed,Cash on Delivery,Express,Mobile App,2024-03-09
+991,203,2024-09-28,Cancelled,Bank Transfer,Express,Mobile App,2024-09-30
+992,51,2024-09-15,Completed,Wallet,Pickup,Website,2024-09-18
+993,15,2024-10-01,Completed,Cash on Delivery,Express,Website,2024-10-06
+994,68,2024-08-25,Completed,Wallet,Standard,Mobile App,2024-08-31
+995,21,2024-11-15,Completed,Cash on Delivery,Standard,Website,2024-11-21
+996,141,2024-08-05,Completed,Wallet,Express,Website,2024-08-11
+997,214,2024-12-22,Completed,Bank Transfer,Express,Mobile App,2024-12-25
+998,19,2024-01-02,Completed,Bank Transfer,Express,Website,2024-01-06
+999,34,2024-09-28,Completed,Card,Pickup,Website,2024-10-01
+1000,78,2024-06-26,Cancelled,Wallet,Standard,Mobile App,2024-07-02
+1001,125,2024-12-22,Returned,Card,Pickup,Website,2024-12-27
+1002,196,2024-06-12,Completed,Wallet,Pickup,Mobile App,2024-06-14
+1003,240,2024-12-02,Cancelled,Cash on Delivery,Standard,Mobile App,2024-12-04
+1004,117,2024-08-21,Completed,Cash on Delivery,Standard,Website,2024-08-24
+1005,52,2024-03-30,Returned,Card,Express,Website,2024-04-05
+1006,238,2024-08-24,Completed,Wallet,Express,Website,2024-08-25
+1007,27,2024-11-05,Returned,Card,Pickup,Mobile App,2024-11-08
+1008,157,2024-11-22,Returned,Bank Transfer,Express,Mobile App,2024-11-28
+1009,239,2024-03-27,Completed,Card,Express,Mobile App,2024-03-31
+1010,156,2024-04-20,Returned,Card,Standard,Website,2024-04-22
+1011,35,2024-09-19,Completed,Cash on Delivery,Standard,Website,2024-09-21
+1012,136,2024-11-16,Completed,Card,Express,Mobile App,2024-11-18
+1013,144,2024-11-17,Completed,Wallet,Standard,Website,2024-11-18
+1014,106,2024-04-04,Completed,Cash on Delivery,Express,Website,2024-04-10
+1015,164,2024-11-10,Completed,Card,Standard,Mobile App,2024-11-16
+1016,158,2024-09-10,Completed,Bank Transfer,Standard,Mobile App,2024-09-16
+1017,146,2024-07-23,Returned,Card,Standard,Website,2024-07-29
+1018,2,2024-11-12,Completed,Card,Standard,Mobile App,2024-11-13
+1019,177,2024-06-01,Completed,Card,Express,Website,2024-06-06
+1020,77,2024-05-05,Returned,Cash on Delivery,Pickup,Mobile App,2024-05-08
+1021,132,2024-02-26,Returned,Wallet,Standard,Mobile App,2024-02-29
+1022,90,2024-10-18,Returned,Bank Transfer,Express,Mobile App,2024-10-24
+1023,89,2024-10-20,Completed,Card,Express,Website,2024-10-24
+1024,94,2024-02-25,Returned,Wallet,Standard,Website,2024-02-27
+1025,203,2024-10-05,Completed,Wallet,Pickup,Mobile App,2024-10-06
+1026,7,2024-06-21,Completed,Cash on Delivery,Standard,Mobile App,2024-06-25
+1027,95,2024-03-17,Completed,Bank Transfer,Express,Mobile App,2024-03-21
+1028,108,2024-02-09,Completed,Cash on Delivery,Pickup,Website,2024-02-15
+1029,74,2024-06-06,Completed,Wallet,Express,Mobile App,2024-06-07
+1030,39,2024-08-25,Completed,Wallet,Standard,Mobile App,2024-08-28
+1031,141,2024-12-13,Completed,Wallet,Pickup,Mobile App,2024-12-15
+1032,159,2024-08-26,Completed,Cash on Delivery,Express,Mobile App,2024-08-29
+1033,71,2024-03-27,Completed,Bank Transfer,Express,Website,2024-03-31
+1034,191,2024-02-25,Completed,Card,Express,Website,2024-02-27
+1035,56,2024-05-27,Completed,Cash on Delivery,Standard,Mobile App,2024-06-01
+1036,241,2024-12-22,Completed,Wallet,Pickup,Website,2024-12-26
+1037,170,2024-06-03,Completed,Cash on Delivery,Standard,Website,2024-06-06
+1038,189,2024-07-07,Completed,Wallet,Standard,Website,2024-07-10
+1039,42,2024-06-28,Returned,Card,Standard,Mobile App,2024-07-04
+1040,184,2024-03-10,Completed,Card,Pickup,Website,2024-03-13
+1041,36,2024-11-26,Completed,Bank Transfer,Standard,Website,2024-11-27
+1042,84,2024-02-07,Completed,Wallet,Standard,Website,2024-02-11
+1043,196,2024-01-06,Completed,Bank Transfer,Standard,Mobile App,2024-01-08
+1044,118,2024-01-19,Cancelled,Bank Transfer,Standard,Mobile App,2024-01-22
+1045,7,2024-09-11,Completed,Card,Express,Website,2024-09-17
+1046,54,2024-08-10,Completed,Cash on Delivery,Standard,Website,2024-08-16
+1047,129,2024-02-09,Completed,Cash on Delivery,Express,Mobile App,2024-02-12
+1048,172,2024-08-08,Completed,Bank Transfer,Standard,Mobile App,2024-08-09
+1049,120,2024-04-28,Completed,Card,Pickup,Website,2024-05-04
+1050,173,2024-12-31,Completed,Wallet,Express,Website,2025-01-02
+1051,106,2024-07-31,Completed,Cash on Delivery,Express,Mobile App,2024-08-04
+1052,47,2024-09-15,Completed,Bank Transfer,Express,Mobile App,2024-09-20
+1053,123,2024-10-04,Completed,Cash on Delivery,Express,Website,2024-10-05
+1054,141,2024-09-22,Returned,Cash on Delivery,Pickup,Mobile App,2024-09-28
+1055,119,2024-11-01,Returned,Wallet,Standard,Website,2024-11-05
+1056,150,2024-01-27,Completed,Card,Express,Website,2024-02-01
+1057,118,2024-08-03,Completed,Wallet,Pickup,Website,2024-08-06
+1058,21,2024-08-13,Completed,Card,Express,Mobile App,2024-08-16
+1059,214,2024-02-08,Completed,Cash on Delivery,Standard,Website,2024-02-10
+1060,220,2024-01-29,Completed,Bank Transfer,Express,Website,2024-02-03
+1061,137,2024-03-09,Returned,Wallet,Pickup,Mobile App,2024-03-12
+1062,26,2024-01-19,Returned,Card,Standard,Mobile App,2024-01-22
+1063,9,2024-12-08,Completed,Cash on Delivery,Pickup,Website,2024-12-14
+1064,15,2024-07-28,Completed,Card,Standard,Website,2024-07-30
+1065,10,2024-01-07,Completed,Card,Standard,Mobile App,2024-01-11
+1066,216,2024-06-20,Completed,Card,Standard,Mobile App,2024-06-23
+1067,122,2024-05-23,Completed,Cash on Delivery,Express,Mobile App,2024-05-24
+1068,121,2024-10-24,Completed,Bank Transfer,Pickup,Website,2024-10-25
+1069,125,2024-01-02,Completed,Bank Transfer,Pickup,Website,2024-01-06
+1070,170,2024-01-29,Completed,Bank Transfer,Pickup,Website,2024-02-03
+1071,72,2024-05-14,Completed,Card,Standard,Mobile App,2024-05-16
+1072,152,2024-03-02,Returned,Cash on Delivery,Express,Website,2024-03-08
+1073,208,2024-07-23,Completed,Card,Standard,Mobile App,2024-07-24
+1074,49,2024-12-26,Completed,Bank Transfer,Pickup,Website,2024-12-27
+1075,154,2024-11-18,Completed,Bank Transfer,Express,Mobile App,2024-11-22
+1076,91,2024-01-26,Completed,Cash on Delivery,Express,Website,2024-01-31
+1077,37,2024-08-28,Completed,Card,Express,Website,2024-09-02
+1078,68,2024-03-23,Completed,Wallet,Pickup,Mobile App,2024-03-27
+1079,50,2024-04-20,Cancelled,Wallet,Express,Mobile App,2024-04-21
+1080,152,2024-09-19,Completed,Bank Transfer,Express,Website,2024-09-21
+1081,19,2024-03-25,Returned,Cash on Delivery,Standard,Mobile App,2024-03-26
+1082,100,2024-08-21,Completed,Card,Standard,Mobile App,2024-08-26
+1083,60,2024-08-31,Completed,Card,Express,Website,2024-09-06
+1084,167,2024-08-22,Completed,Bank Transfer,Express,Mobile App,2024-08-23
+1085,202,2024-06-17,Completed,Bank Transfer,Standard,Website,2024-06-19
+1086,89,2024-12-28,Completed,Card,Standard,Website,2024-12-31
+1087,146,2024-02-27,Completed,Card,Standard,Mobile App,2024-02-28
+1088,147,2024-11-04,Completed,Bank Transfer,Pickup,Mobile App,2024-11-08
+1089,164,2024-01-28,Cancelled,Card,Pickup,Website,2024-01-31
+1090,202,2024-12-31,Returned,Wallet,Standard,Website,2025-01-04
+1091,225,2024-03-10,Cancelled,Bank Transfer,Express,Website,2024-03-14
+1092,183,2024-12-27,Completed,Card,Standard,Website,2024-12-31
+1093,242,2024-11-14,Completed,Bank Transfer,Pickup,Website,2024-11-15
+1094,69,2024-12-09,Completed,Cash on Delivery,Express,Website,2024-12-14
+1095,175,2024-08-27,Completed,Bank Transfer,Pickup,Mobile App,2024-08-30
+1096,49,2024-10-19,Completed,Bank Transfer,Express,Mobile App,2024-10-21
+1097,227,2024-12-17,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-22
+1098,108,2024-05-12,Completed,Wallet,Express,Website,2024-05-13
+1099,226,2024-10-31,Completed,Card,Express,Mobile App,2024-11-04
+1100,161,2024-09-12,Cancelled,Cash on Delivery,Express,Website,2024-09-14
+1101,119,2024-06-14,Completed,Bank Transfer,Express,Website,2024-06-17
+1102,149,2024-11-19,Completed,Card,Pickup,Mobile App,2024-11-24
+1103,209,2024-05-14,Completed,Cash on Delivery,Pickup,Website,2024-05-20
+1104,150,2024-01-05,Returned,Card,Express,Website,2024-01-10
+1105,176,2024-08-26,Completed,Card,Express,Website,2024-08-28
+1106,37,2024-08-18,Completed,Cash on Delivery,Pickup,Website,2024-08-19
+1107,143,2024-09-25,Cancelled,Card,Express,Website,2024-09-28
+1108,163,2024-08-21,Cancelled,Wallet,Express,Website,2024-08-23
+1109,220,2024-09-14,Completed,Cash on Delivery,Express,Mobile App,2024-09-18
+1110,199,2024-10-14,Completed,Wallet,Standard,Website,2024-10-17
+1111,160,2024-12-18,Completed,Bank Transfer,Express,Website,2024-12-23
+1112,11,2024-06-01,Completed,Card,Standard,Website,2024-06-03
+1113,138,2024-03-21,Completed,Bank Transfer,Express,Website,2024-03-26
+1114,201,2024-08-18,Cancelled,Bank Transfer,Pickup,Mobile App,2024-08-23
+1115,78,2024-12-06,Completed,Card,Standard,Mobile App,2024-12-11
+1116,77,2024-04-13,Completed,Cash on Delivery,Standard,Website,2024-04-14
+1117,185,2024-12-31,Completed,Card,Express,Website,2025-01-05
+1118,153,2024-04-23,Completed,Bank Transfer,Express,Website,2024-04-27
+1119,2,2024-08-19,Completed,Bank Transfer,Standard,Mobile App,2024-08-23
+1120,64,2024-07-28,Completed,Cash on Delivery,Pickup,Mobile App,2024-07-31
+1121,35,2024-09-26,Completed,Card,Pickup,Mobile App,2024-10-02
+1122,7,2024-10-19,Completed,Bank Transfer,Express,Mobile App,2024-10-24
+1123,85,2024-01-23,Completed,Wallet,Pickup,Website,2024-01-28
+1124,146,2024-12-23,Completed,Bank Transfer,Pickup,Mobile App,2024-12-25
+1125,67,2024-08-16,Returned,Bank Transfer,Express,Mobile App,2024-08-17
+1126,42,2024-01-08,Completed,Cash on Delivery,Pickup,Website,2024-01-14
+1127,118,2024-05-26,Completed,Wallet,Express,Website,2024-05-29
+1128,125,2024-06-12,Completed,Bank Transfer,Standard,Mobile App,2024-06-18
+1129,167,2024-07-16,Completed,Bank Transfer,Express,Mobile App,2024-07-21
+1130,169,2024-03-14,Completed,Wallet,Standard,Mobile App,2024-03-16
+1131,241,2024-03-25,Completed,Card,Standard,Mobile App,2024-03-26
+1132,203,2024-03-21,Returned,Card,Pickup,Website,2024-03-24
+1133,231,2024-10-20,Completed,Bank Transfer,Pickup,Website,2024-10-26
+1134,24,2024-04-02,Completed,Bank Transfer,Pickup,Mobile App,2024-04-05
+1135,188,2024-09-25,Completed,Card,Express,Mobile App,2024-09-30
+1136,46,2024-04-11,Cancelled,Cash on Delivery,Pickup,Mobile App,2024-04-14
+1137,19,2024-11-09,Completed,Wallet,Standard,Mobile App,2024-11-11
+1138,68,2024-02-24,Completed,Wallet,Pickup,Mobile App,2024-02-27
+1139,218,2024-09-10,Completed,Cash on Delivery,Pickup,Website,2024-09-14
+1140,102,2024-01-02,Completed,Cash on Delivery,Express,Website,2024-01-04
+1141,42,2024-04-20,Cancelled,Cash on Delivery,Express,Website,2024-04-26
+1142,32,2024-07-07,Completed,Cash on Delivery,Standard,Mobile App,2024-07-08
+1143,167,2024-06-22,Completed,Cash on Delivery,Express,Mobile App,2024-06-23
+1144,109,2024-04-23,Returned,Cash on Delivery,Pickup,Website,2024-04-28
+1145,238,2024-11-03,Cancelled,Wallet,Express,Website,2024-11-08
+1146,36,2024-02-18,Returned,Cash on Delivery,Standard,Mobile App,2024-02-22
+1147,232,2024-07-08,Completed,Card,Pickup,Website,2024-07-14
+1148,229,2024-09-21,Completed,Cash on Delivery,Standard,Mobile App,2024-09-22
+1149,97,2024-02-28,Completed,Cash on Delivery,Express,Mobile App,2024-02-29
+1150,164,2024-12-23,Completed,Wallet,Express,Website,2024-12-24
+1151,131,2024-10-30,Completed,Wallet,Standard,Website,2024-10-31
+1152,73,2024-11-03,Completed,Cash on Delivery,Pickup,Website,2024-11-06
+1153,136,2024-06-01,Completed,Wallet,Express,Mobile App,2024-06-07
+1154,97,2024-02-29,Completed,Bank Transfer,Express,Mobile App,2024-03-02
+1155,123,2024-04-15,Completed,Wallet,Pickup,Website,2024-04-17
+1156,70,2024-09-12,Completed,Wallet,Express,Mobile App,2024-09-16
+1157,169,2024-11-05,Returned,Wallet,Standard,Mobile App,2024-11-08
+1158,231,2024-01-05,Completed,Wallet,Express,Mobile App,2024-01-06
+1159,196,2024-05-14,Completed,Card,Express,Website,2024-05-15
+1160,13,2024-11-25,Completed,Card,Pickup,Mobile App,2024-11-30
+1161,49,2024-03-17,Completed,Card,Standard,Website,2024-03-22
+1162,60,2024-12-23,Completed,Cash on Delivery,Pickup,Website,2024-12-27
+1163,130,2024-05-17,Completed,Cash on Delivery,Express,Mobile App,2024-05-18
+1164,188,2024-02-06,Completed,Bank Transfer,Express,Website,2024-02-10
+1165,5,2024-05-15,Completed,Card,Pickup,Mobile App,2024-05-18
+1166,172,2024-05-01,Completed,Cash on Delivery,Pickup,Website,2024-05-03
+1167,27,2024-12-24,Completed,Wallet,Pickup,Website,2024-12-25
+1168,160,2024-07-12,Returned,Wallet,Standard,Mobile App,2024-07-18
+1169,149,2024-07-25,Cancelled,Card,Express,Website,2024-07-28
+1170,8,2024-07-08,Completed,Bank Transfer,Pickup,Website,2024-07-09
+1171,230,2024-05-18,Completed,Bank Transfer,Express,Website,2024-05-24
+1172,200,2024-05-20,Completed,Wallet,Standard,Mobile App,2024-05-25
+1173,50,2024-11-26,Returned,Bank Transfer,Standard,Mobile App,2024-11-30
+1174,67,2024-10-25,Completed,Card,Standard,Website,2024-10-30
+1175,246,2024-06-13,Completed,Wallet,Standard,Website,2024-06-15
+1176,44,2024-07-16,Cancelled,Cash on Delivery,Express,Website,2024-07-21
+1177,125,2024-10-23,Completed,Cash on Delivery,Standard,Mobile App,2024-10-24
+1178,58,2024-12-18,Cancelled,Bank Transfer,Standard,Mobile App,2024-12-24
+1179,3,2024-01-19,Completed,Wallet,Pickup,Website,2024-01-24
+1180,86,2024-06-06,Completed,Wallet,Standard,Mobile App,2024-06-07
+1181,70,2024-01-08,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-10
+1182,130,2024-11-22,Returned,Wallet,Standard,Mobile App,2024-11-28
+1183,215,2024-09-05,Cancelled,Wallet,Standard,Mobile App,2024-09-10
+1184,172,2024-11-29,Completed,Wallet,Pickup,Website,2024-12-03
+1185,2,2024-08-19,Completed,Bank Transfer,Standard,Mobile App,2024-08-23
+1186,102,2024-06-17,Completed,Wallet,Express,Mobile App,2024-06-23
+1187,209,2024-12-14,Returned,Card,Express,Website,2024-12-18
+1188,35,2024-08-22,Completed,Bank Transfer,Standard,Website,2024-08-27
+1189,98,2024-10-23,Completed,Wallet,Express,Mobile App,2024-10-28
+1190,215,2024-01-26,Completed,Wallet,Pickup,Mobile App,2024-02-01
+1191,30,2024-06-11,Completed,Card,Standard,Website,2024-06-16
+1192,116,2024-05-19,Completed,Bank Transfer,Standard,Website,2024-05-20
+1193,8,2024-11-29,Completed,Cash on Delivery,Pickup,Website,2024-12-01
+1194,150,2024-02-04,Completed,Cash on Delivery,Pickup,Mobile App,2024-02-08
+1195,44,2024-03-05,Cancelled,Bank Transfer,Pickup,Mobile App,2024-03-06
+1196,186,2024-08-22,Completed,Wallet,Standard,Website,2024-08-28
+1197,36,2024-07-17,Completed,Wallet,Pickup,Mobile App,2024-07-21
+1198,197,2024-07-23,Returned,Cash on Delivery,Pickup,Website,2024-07-24
+1199,77,2024-05-30,Completed,Cash on Delivery,Express,Mobile App,2024-06-04
+1200,221,2024-06-20,Completed,Cash on Delivery,Express,Website,2024-06-26
+1201,31,2024-10-02,Completed,Card,Standard,Website,2024-10-08
+1202,47,2024-11-21,Cancelled,Cash on Delivery,Express,Mobile App,2024-11-25
+1203,249,2024-10-29,Completed,Card,Express,Mobile App,2024-11-03
+1204,55,2024-09-24,Returned,Bank Transfer,Pickup,Mobile App,2024-09-28
+1205,208,2024-02-16,Completed,Wallet,Pickup,Mobile App,2024-02-19
+1206,106,2024-09-14,Completed,Cash on Delivery,Express,Mobile App,2024-09-15
+1207,190,2024-11-07,Completed,Wallet,Express,Mobile App,2024-11-10
+1208,158,2024-04-20,Cancelled,Wallet,Express,Website,2024-04-21
+1209,121,2024-08-28,Completed,Cash on Delivery,Standard,Mobile App,2024-08-30
+1210,55,2024-10-23,Cancelled,Cash on Delivery,Standard,Website,2024-10-29
+1211,144,2024-11-18,Completed,Bank Transfer,Standard,Website,2024-11-22
+1212,12,2024-06-20,Completed,Card,Express,Mobile App,2024-06-22
+1213,145,2024-02-01,Completed,Card,Express,Website,2024-02-03
+1214,144,2024-08-13,Cancelled,Wallet,Standard,Website,2024-08-19
+1215,140,2024-05-16,Completed,Cash on Delivery,Standard,Mobile App,2024-05-22
+1216,136,2024-09-29,Completed,Bank Transfer,Express,Mobile App,2024-09-30
+1217,212,2024-10-30,Completed,Bank Transfer,Pickup,Mobile App,2024-11-02
+1218,3,2024-12-25,Cancelled,Bank Transfer,Standard,Website,2024-12-30
+1219,144,2024-01-28,Completed,Bank Transfer,Express,Mobile App,2024-01-29
+1220,30,2024-09-30,Completed,Bank Transfer,Express,Mobile App,2024-10-05
+1221,237,2024-03-04,Completed,Card,Pickup,Mobile App,2024-03-06
+1222,23,2024-06-25,Completed,Card,Express,Mobile App,2024-06-30
+1223,92,2024-08-04,Completed,Card,Express,Website,2024-08-07
+1224,115,2024-03-14,Cancelled,Cash on Delivery,Standard,Mobile App,2024-03-15
+1225,104,2024-05-15,Returned,Wallet,Standard,Website,2024-05-21
+1226,118,2024-11-14,Completed,Bank Transfer,Pickup,Mobile App,2024-11-17
+1227,5,2024-08-30,Completed,Cash on Delivery,Pickup,Website,2024-09-02
+1228,212,2024-10-28,Completed,Bank Transfer,Express,Website,2024-10-29
+1229,104,2024-01-15,Completed,Card,Standard,Website,2024-01-21
+1230,248,2024-02-21,Completed,Cash on Delivery,Pickup,Mobile App,2024-02-24
+1231,108,2024-08-25,Completed,Card,Pickup,Website,2024-08-31
+1232,65,2024-02-29,Completed,Bank Transfer,Pickup,Mobile App,2024-03-04
+1233,121,2024-10-27,Completed,Bank Transfer,Express,Mobile App,2024-10-31
+1234,30,2024-02-10,Completed,Wallet,Standard,Mobile App,2024-02-14
+1235,149,2024-12-24,Completed,Bank Transfer,Pickup,Mobile App,2024-12-29
+1236,84,2024-01-04,Completed,Card,Standard,Mobile App,2024-01-07
+1237,198,2024-05-13,Completed,Bank Transfer,Pickup,Website,2024-05-14
+1238,150,2024-03-16,Completed,Wallet,Pickup,Mobile App,2024-03-17
+1239,210,2024-03-26,Completed,Wallet,Standard,Website,2024-03-31
+1240,200,2024-11-30,Completed,Card,Standard,Website,2024-12-01
+1241,231,2024-03-09,Completed,Cash on Delivery,Standard,Website,2024-03-13
+1242,32,2024-08-08,Completed,Bank Transfer,Express,Website,2024-08-11
+1243,161,2024-11-24,Completed,Wallet,Pickup,Website,2024-11-25
+1244,245,2024-03-25,Completed,Bank Transfer,Express,Website,2024-03-26
+1245,16,2024-09-01,Returned,Bank Transfer,Standard,Website,2024-09-03
+1246,204,2024-08-12,Completed,Cash on Delivery,Pickup,Mobile App,2024-08-14
+1247,38,2024-12-08,Completed,Wallet,Express,Website,2024-12-10
+1248,244,2024-10-12,Completed,Bank Transfer,Pickup,Mobile App,2024-10-15
+1249,226,2024-07-01,Completed,Wallet,Express,Website,2024-07-05
+1250,142,2024-09-20,Completed,Card,Standard,Website,2024-09-26
+1251,36,2024-05-11,Completed,Card,Express,Website,2024-05-15
+1252,225,2024-01-10,Completed,Bank Transfer,Pickup,Website,2024-01-14
+1253,151,2024-10-09,Completed,Wallet,Pickup,Mobile App,2024-10-12
+1254,114,2024-07-05,Completed,Bank Transfer,Pickup,Mobile App,2024-07-08
+1255,237,2024-11-08,Completed,Wallet,Pickup,Mobile App,2024-11-10
+1256,66,2024-04-19,Returned,Wallet,Standard,Website,2024-04-20
+1257,105,2024-12-22,Completed,Cash on Delivery,Express,Website,2024-12-27
+1258,85,2024-07-13,Completed,Cash on Delivery,Standard,Website,2024-07-18
+1259,2,2024-11-13,Completed,Cash on Delivery,Standard,Mobile App,2024-11-19
+1260,219,2024-06-11,Returned,Bank Transfer,Standard,Website,2024-06-12
+1261,249,2024-10-16,Completed,Cash on Delivery,Pickup,Mobile App,2024-10-22
+1262,201,2024-04-09,Completed,Cash on Delivery,Pickup,Mobile App,2024-04-11
+1263,193,2024-04-15,Completed,Card,Pickup,Website,2024-04-21
+1264,75,2024-09-25,Completed,Wallet,Express,Website,2024-09-26
+1265,67,2024-04-05,Completed,Wallet,Pickup,Mobile App,2024-04-06
+1266,180,2024-11-19,Completed,Cash on Delivery,Express,Mobile App,2024-11-24
+1267,190,2024-12-01,Completed,Wallet,Pickup,Mobile App,2024-12-03
+1268,151,2024-09-24,Completed,Card,Pickup,Website,2024-09-27
+1269,154,2024-07-07,Completed,Card,Standard,Website,2024-07-13
+1270,196,2024-03-21,Completed,Cash on Delivery,Standard,Website,2024-03-26
+1271,210,2024-02-29,Completed,Card,Standard,Website,2024-03-06
+1272,55,2024-09-22,Completed,Wallet,Express,Website,2024-09-28
+1273,6,2024-10-01,Completed,Bank Transfer,Express,Website,2024-10-04
+1274,163,2024-02-08,Returned,Wallet,Pickup,Mobile App,2024-02-10
+1275,150,2024-12-28,Completed,Bank Transfer,Express,Mobile App,2024-12-29
+1276,171,2024-01-08,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-12
+1277,143,2024-08-29,Completed,Bank Transfer,Express,Website,2024-09-04
+1278,86,2024-01-06,Returned,Card,Express,Mobile App,2024-01-10
+1279,60,2024-01-18,Completed,Wallet,Express,Website,2024-01-20
+1280,101,2024-09-26,Completed,Bank Transfer,Standard,Website,2024-09-30
+1281,244,2024-09-08,Completed,Wallet,Express,Mobile App,2024-09-14
+1282,234,2024-03-30,Completed,Cash on Delivery,Standard,Website,2024-04-02
+1283,12,2024-10-18,Completed,Cash on Delivery,Standard,Mobile App,2024-10-22
+1284,239,2024-07-15,Completed,Card,Express,Mobile App,2024-07-17
+1285,49,2024-12-20,Completed,Cash on Delivery,Pickup,Website,2024-12-22
+1286,42,2024-02-10,Returned,Bank Transfer,Pickup,Mobile App,2024-02-13
+1287,166,2024-05-24,Completed,Cash on Delivery,Pickup,Mobile App,2024-05-28
+1288,82,2024-08-01,Completed,Card,Express,Mobile App,2024-08-05
+1289,173,2024-10-11,Completed,Wallet,Pickup,Mobile App,2024-10-12
+1290,35,2024-05-25,Completed,Wallet,Standard,Website,2024-05-30
+1291,158,2024-06-12,Completed,Cash on Delivery,Pickup,Mobile App,2024-06-14
+1292,216,2024-04-27,Completed,Bank Transfer,Express,Mobile App,2024-04-28
+1293,234,2024-04-18,Completed,Card,Pickup,Mobile App,2024-04-20
+1294,158,2024-04-09,Cancelled,Bank Transfer,Standard,Website,2024-04-10
+1295,206,2024-06-12,Returned,Card,Express,Mobile App,2024-06-17
+1296,134,2024-12-26,Completed,Cash on Delivery,Pickup,Website,2024-12-27
+1297,67,2024-01-22,Completed,Card,Express,Mobile App,2024-01-24
+1298,80,2024-10-13,Returned,Card,Express,Mobile App,2024-10-17
+1299,7,2024-05-14,Completed,Cash on Delivery,Express,Mobile App,2024-05-16
+1300,180,2024-08-29,Cancelled,Bank Transfer,Pickup,Website,2024-09-04
+1301,14,2024-02-16,Completed,Cash on Delivery,Express,Website,2024-02-19
+1302,73,2024-03-06,Completed,Card,Pickup,Website,2024-03-09
+1303,143,2024-04-07,Completed,Cash on Delivery,Standard,Website,2024-04-13
+1304,149,2024-08-27,Completed,Card,Pickup,Website,2024-08-30
+1305,163,2024-11-08,Completed,Cash on Delivery,Standard,Website,2024-11-11
+1306,66,2024-08-19,Completed,Wallet,Pickup,Mobile App,2024-08-24
+1307,91,2024-06-30,Completed,Wallet,Express,Website,2024-07-04
+1308,130,2024-12-25,Completed,Cash on Delivery,Pickup,Mobile App,2024-12-29
+1309,163,2024-08-01,Completed,Bank Transfer,Express,Website,2024-08-03
+1310,210,2024-06-06,Returned,Card,Standard,Website,2024-06-12
+1311,206,2024-04-12,Completed,Wallet,Pickup,Website,2024-04-13
+1312,20,2024-09-10,Cancelled,Bank Transfer,Express,Mobile App,2024-09-12
+1313,210,2024-12-23,Completed,Card,Standard,Website,2024-12-25
+1314,10,2024-05-31,Completed,Wallet,Standard,Website,2024-06-02
+1315,25,2024-11-02,Returned,Wallet,Pickup,Mobile App,2024-11-04
+1316,194,2024-07-25,Completed,Cash on Delivery,Standard,Mobile App,2024-07-29
+1317,25,2024-08-29,Completed,Card,Express,Mobile App,2024-08-30
+1318,54,2024-08-06,Completed,Bank Transfer,Standard,Mobile App,2024-08-08
+1319,33,2024-05-23,Completed,Bank Transfer,Standard,Website,2024-05-27
+1320,164,2024-07-30,Completed,Bank Transfer,Express,Mobile App,2024-08-01
+1321,95,2024-12-19,Returned,Card,Standard,Website,2024-12-22
+1322,14,2024-08-27,Completed,Bank Transfer,Standard,Website,2024-08-29
+1323,65,2024-07-07,Completed,Bank Transfer,Standard,Mobile App,2024-07-13
+1324,110,2024-08-11,Completed,Bank Transfer,Standard,Website,2024-08-17
+1325,80,2024-12-28,Completed,Cash on Delivery,Express,Mobile App,2024-12-30
+1326,54,2024-11-25,Completed,Cash on Delivery,Standard,Website,2024-11-30
+1327,238,2024-10-04,Completed,Card,Express,Mobile App,2024-10-07
+1328,125,2024-08-19,Completed,Card,Standard,Mobile App,2024-08-20
+1329,180,2024-11-06,Completed,Bank Transfer,Standard,Mobile App,2024-11-08
+1330,131,2024-07-10,Completed,Cash on Delivery,Standard,Mobile App,2024-07-11
+1331,227,2024-12-04,Completed,Wallet,Standard,Mobile App,2024-12-07
+1332,169,2024-03-04,Completed,Wallet,Express,Mobile App,2024-03-06
+1333,134,2024-12-08,Completed,Bank Transfer,Express,Website,2024-12-13
+1334,25,2024-07-07,Cancelled,Bank Transfer,Express,Website,2024-07-11
+1335,141,2024-07-03,Completed,Cash on Delivery,Pickup,Website,2024-07-08
+1336,117,2024-01-18,Completed,Cash on Delivery,Standard,Mobile App,2024-01-23
+1337,226,2024-08-29,Completed,Cash on Delivery,Standard,Website,2024-09-02
+1338,136,2024-10-23,Completed,Card,Express,Mobile App,2024-10-27
+1339,149,2024-09-03,Completed,Card,Pickup,Website,2024-09-09
+1340,226,2024-11-17,Completed,Bank Transfer,Standard,Website,2024-11-21
+1341,196,2024-07-23,Completed,Card,Express,Mobile App,2024-07-25
+1342,25,2024-11-24,Completed,Cash on Delivery,Standard,Website,2024-11-25
+1343,79,2024-03-14,Completed,Cash on Delivery,Standard,Website,2024-03-20
+1344,68,2024-12-23,Completed,Card,Express,Website,2024-12-29
+1345,173,2024-10-05,Completed,Wallet,Express,Mobile App,2024-10-06
+1346,188,2024-11-22,Completed,Bank Transfer,Standard,Website,2024-11-28
+1347,12,2024-04-06,Returned,Wallet,Standard,Mobile App,2024-04-10
+1348,32,2024-02-25,Cancelled,Bank Transfer,Express,Website,2024-03-01
+1349,128,2024-08-17,Cancelled,Wallet,Standard,Website,2024-08-20
+1350,96,2024-12-20,Cancelled,Card,Standard,Website,2024-12-24
+1351,92,2024-08-23,Returned,Bank Transfer,Express,Website,2024-08-28
+1352,141,2024-10-24,Completed,Bank Transfer,Standard,Mobile App,2024-10-29
+1353,31,2024-07-14,Completed,Bank Transfer,Standard,Website,2024-07-20
+1354,78,2024-07-05,Completed,Cash on Delivery,Pickup,Mobile App,2024-07-07
+1355,20,2024-12-12,Completed,Cash on Delivery,Express,Mobile App,2024-12-14
+1356,146,2024-09-15,Completed,Wallet,Pickup,Website,2024-09-21
+1357,221,2024-08-06,Completed,Card,Pickup,Website,2024-08-12
+1358,60,2024-06-02,Completed,Cash on Delivery,Pickup,Mobile App,2024-06-03
+1359,191,2024-08-26,Completed,Bank Transfer,Standard,Mobile App,2024-08-27
+1360,134,2024-05-11,Returned,Cash on Delivery,Standard,Website,2024-05-14
+1361,160,2024-03-19,Completed,Card,Pickup,Website,2024-03-22
+1362,93,2024-11-02,Completed,Cash on Delivery,Pickup,Website,2024-11-05
+1363,43,2024-06-20,Completed,Bank Transfer,Pickup,Website,2024-06-23
+1364,130,2024-01-08,Completed,Wallet,Standard,Website,2024-01-13
+1365,60,2024-05-06,Cancelled,Bank Transfer,Pickup,Mobile App,2024-05-11
+1366,151,2024-05-29,Completed,Card,Pickup,Website,2024-05-30
+1367,211,2024-01-15,Completed,Wallet,Express,Website,2024-01-17
+1368,31,2024-06-01,Completed,Cash on Delivery,Express,Mobile App,2024-06-07
+1369,243,2024-03-15,Completed,Cash on Delivery,Standard,Website,2024-03-17
+1370,5,2024-08-08,Completed,Cash on Delivery,Express,Website,2024-08-12
+1371,211,2024-03-01,Completed,Wallet,Express,Mobile App,2024-03-06
+1372,162,2024-03-21,Completed,Bank Transfer,Express,Website,2024-03-24
+1373,10,2024-04-16,Completed,Wallet,Standard,Mobile App,2024-04-19
+1374,89,2024-02-21,Completed,Wallet,Express,Website,2024-02-25
+1375,130,2024-07-28,Returned,Card,Standard,Website,2024-07-30
+1376,126,2024-06-27,Completed,Wallet,Pickup,Website,2024-06-30
+1377,11,2024-02-14,Cancelled,Cash on Delivery,Express,Mobile App,2024-02-16
+1378,178,2024-10-16,Completed,Bank Transfer,Standard,Mobile App,2024-10-22
+1379,159,2024-01-21,Completed,Bank Transfer,Express,Mobile App,2024-01-25
+1380,56,2024-12-23,Completed,Bank Transfer,Pickup,Mobile App,2024-12-25
+1381,207,2024-05-15,Completed,Cash on Delivery,Standard,Website,2024-05-21
+1382,201,2024-07-28,Completed,Cash on Delivery,Standard,Mobile App,2024-07-30
+1383,215,2024-10-21,Completed,Cash on Delivery,Standard,Mobile App,2024-10-23
+1384,83,2024-01-04,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-07
+1385,137,2024-11-19,Returned,Cash on Delivery,Pickup,Website,2024-11-20
+1386,99,2024-01-16,Completed,Wallet,Pickup,Website,2024-01-21
+1387,149,2024-06-22,Completed,Cash on Delivery,Standard,Mobile App,2024-06-24
+1388,73,2024-03-07,Completed,Cash on Delivery,Pickup,Mobile App,2024-03-09
+1389,156,2024-07-21,Completed,Cash on Delivery,Express,Website,2024-07-23
+1390,190,2024-01-01,Completed,Cash on Delivery,Pickup,Mobile App,2024-01-02
+1391,238,2024-05-21,Completed,Bank Transfer,Standard,Mobile App,2024-05-27
+1392,115,2024-09-07,Completed,Cash on Delivery,Express,Mobile App,2024-09-11
+1393,7,2024-08-21,Completed,Wallet,Pickup,Mobile App,2024-08-24
+1394,80,2024-06-03,Completed,Wallet,Express,Website,2024-06-04
+1395,144,2024-12-31,Completed,Wallet,Express,Website,2025-01-06
+1396,97,2024-05-23,Cancelled,Card,Standard,Website,2024-05-25
+1397,4,2024-09-29,Cancelled,Bank Transfer,Express,Mobile App,2024-10-05
+1398,4,2024-06-14,Completed,Cash on Delivery,Express,Mobile App,2024-06-15
+1399,103,2024-05-04,Completed,Card,Standard,Website,2024-05-05
+1400,40,2024-12-22,Completed,Cash on Delivery,Standard,Website,2024-12-23
+1401,17,2024-12-10,Completed,Card,Standard,Website,2024-12-14
+1402,101,2024-04-05,Completed,Card,Express,Mobile App,2024-04-10
+1403,103,2024-10-08,Completed,Wallet,Express,Website,2024-10-11
+1404,124,2024-08-08,Completed,Wallet,Express,Mobile App,2024-08-12
+1405,52,2024-08-20,Completed,Card,Standard,Mobile App,2024-08-24
+1406,221,2024-12-30,Completed,Wallet,Pickup,Website,2025-01-04
+1407,52,2024-01-30,Cancelled,Card,Express,Website,2024-02-03
+1408,164,2024-11-11,Completed,Bank Transfer,Pickup,Mobile App,2024-11-12
+1409,124,2024-07-01,Completed,Wallet,Standard,Website,2024-07-02
+1410,166,2024-12-06,Returned,Wallet,Express,Website,2024-12-12
+1411,231,2024-08-11,Returned,Wallet,Pickup,Mobile App,2024-08-13
+1412,178,2024-11-13,Completed,Bank Transfer,Express,Mobile App,2024-11-17
+1413,63,2024-01-25,Completed,Card,Express,Mobile App,2024-01-27
+1414,229,2024-12-02,Completed,Cash on Delivery,Express,Mobile App,2024-12-05
+1415,116,2024-11-09,Returned,Wallet,Pickup,Mobile App,2024-11-10
+1416,191,2024-07-11,Cancelled,Card,Standard,Website,2024-07-17
+1417,62,2024-08-01,Completed,Bank Transfer,Express,Mobile App,2024-08-04
+1418,227,2024-02-07,Completed,Cash on Delivery,Standard,Mobile App,2024-02-13
+1419,7,2024-07-26,Completed,Wallet,Standard,Mobile App,2024-07-31
+1420,155,2024-04-03,Completed,Bank Transfer,Pickup,Website,2024-04-04
+1421,92,2024-06-12,Completed,Bank Transfer,Pickup,Mobile App,2024-06-15
+1422,214,2024-11-17,Cancelled,Cash on Delivery,Standard,Mobile App,2024-11-22
+1423,14,2024-05-13,Completed,Card,Express,Mobile App,2024-05-16
+1424,199,2024-01-06,Cancelled,Wallet,Pickup,Website,2024-01-12
+1425,229,2024-01-23,Cancelled,Wallet,Express,Mobile App,2024-01-28
+1426,86,2024-06-08,Completed,Card,Express,Mobile App,2024-06-13
+1427,133,2024-06-29,Completed,Card,Express,Mobile App,2024-06-30
+1428,183,2024-08-12,Completed,Card,Standard,Website,2024-08-14
+1429,130,2024-04-22,Completed,Cash on Delivery,Express,Website,2024-04-28
+1430,62,2024-02-26,Completed,Cash on Delivery,Standard,Website,2024-03-03
+1431,219,2024-07-20,Completed,Wallet,Standard,Website,2024-07-25
+1432,149,2024-07-29,Completed,Cash on Delivery,Express,Mobile App,2024-08-03
+1433,246,2024-02-26,Completed,Bank Transfer,Express,Mobile App,2024-02-27
+1434,230,2024-02-26,Completed,Wallet,Express,Website,2024-02-28
+1435,79,2024-09-07,Completed,Cash on Delivery,Express,Website,2024-09-13
+1436,149,2024-07-05,Completed,Card,Standard,Mobile App,2024-07-09
+1437,138,2024-05-03,Completed,Bank Transfer,Express,Mobile App,2024-05-07
+1438,215,2024-02-18,Completed,Card,Express,Website,2024-02-20
+1439,58,2024-12-10,Completed,Wallet,Standard,Website,2024-12-13
+1440,120,2024-10-05,Completed,Card,Pickup,Website,2024-10-06
+1441,167,2024-08-20,Completed,Cash on Delivery,Pickup,Website,2024-08-22
+1442,133,2024-05-02,Completed,Cash on Delivery,Standard,Mobile App,2024-05-06
+1443,65,2024-06-02,Completed,Wallet,Pickup,Website,2024-06-07
+1444,13,2024-09-19,Cancelled,Card,Standard,Website,2024-09-23
+1445,213,2024-12-09,Completed,Wallet,Express,Mobile App,2024-12-14
+1446,218,2024-09-23,Completed,Card,Express,Mobile App,2024-09-24
+1447,242,2024-01-07,Completed,Bank Transfer,Pickup,Mobile App,2024-01-12
+1448,237,2024-01-28,Completed,Cash on Delivery,Express,Mobile App,2024-01-30
+1449,213,2024-02-03,Completed,Wallet,Pickup,Mobile App,2024-02-08
+1450,181,2024-08-15,Completed,Bank Transfer,Pickup,Website,2024-08-18
+1451,82,2024-05-11,Completed,Bank Transfer,Express,Website,2024-05-13
+1452,229,2024-10-27,Completed,Wallet,Express,Website,2024-10-28
+1453,173,2024-08-01,Completed,Wallet,Pickup,Mobile App,2024-08-03
+1454,160,2024-07-29,Completed,Bank Transfer,Express,Website,2024-08-01
+1455,164,2024-08-19,Completed,Card,Standard,Mobile App,2024-08-20
+1456,209,2024-01-29,Returned,Bank Transfer,Express,Website,2024-02-02
+1457,227,2024-06-26,Completed,Wallet,Express,Website,2024-06-29
+1458,241,2024-05-10,Completed,Bank Transfer,Standard,Mobile App,2024-05-11
+1459,188,2024-01-11,Completed,Card,Express,Mobile App,2024-01-16
+1460,139,2024-11-18,Completed,Cash on Delivery,Express,Website,2024-11-20
+1461,191,2024-05-13,Completed,Cash on Delivery,Pickup,Website,2024-05-14
+1462,149,2024-03-03,Completed,Bank Transfer,Express,Website,2024-03-05
+1463,52,2024-02-20,Completed,Card,Express,Website,2024-02-25
+1464,183,2024-01-10,Completed,Cash on Delivery,Standard,Website,2024-01-11
+1465,117,2024-07-10,Completed,Bank Transfer,Pickup,Mobile App,2024-07-14
+1466,26,2024-07-07,Completed,Bank Transfer,Pickup,Mobile App,2024-07-10
+1467,196,2024-11-17,Cancelled,Card,Pickup,Mobile App,2024-11-18
+1468,34,2024-09-28,Completed,Wallet,Express,Mobile App,2024-10-03
+1469,52,2024-12-30,Completed,Bank Transfer,Pickup,Website,2024-12-31
+1470,112,2024-05-29,Completed,Wallet,Standard,Website,2024-05-31
+1471,82,2024-10-09,Completed,Wallet,Pickup,Mobile App,2024-10-15
+1472,232,2024-10-19,Completed,Cash on Delivery,Standard,Website,2024-10-20
+1473,227,2024-12-03,Completed,Wallet,Pickup,Mobile App,2024-12-07
+1474,233,2024-06-03,Completed,Card,Pickup,Website,2024-06-04
+1475,221,2024-08-01,Completed,Cash on Delivery,Standard,Website,2024-08-04
+1476,180,2024-03-12,Completed,Cash on Delivery,Pickup,Website,2024-03-13
+1477,157,2024-08-31,Completed,Cash on Delivery,Pickup,Mobile App,2024-09-06
+1478,166,2024-10-27,Cancelled,Bank Transfer,Pickup,Mobile App,2024-10-29
+1479,42,2024-09-29,Completed,Bank Transfer,Express,Mobile App,2024-09-30
+1480,21,2024-11-18,Completed,Wallet,Standard,Mobile App,2024-11-22
+1481,42,2024-03-06,Completed,Cash on Delivery,Pickup,Website,2024-03-11
+1482,141,2024-12-25,Completed,Cash on Delivery,Standard,Website,2024-12-26
+1483,113,2024-09-04,Completed,Card,Standard,Website,2024-09-05
+1484,105,2024-01-04,Completed,Wallet,Standard,Website,2024-01-07
+1485,192,2024-08-27,Completed,Card,Pickup,Mobile App,2024-08-31
+1486,17,2024-03-30,Completed,Wallet,Pickup,Website,2024-04-05
+1487,120,2024-07-13,Completed,Wallet,Standard,Website,2024-07-18
+1488,137,2024-07-30,Completed,Bank Transfer,Express,Website,2024-08-01
+1489,169,2024-03-15,Completed,Bank Transfer,Standard,Mobile App,2024-03-16
+1490,129,2024-03-22,Completed,Card,Express,Mobile App,2024-03-28
+1491,130,2024-09-14,Completed,Wallet,Standard,Mobile App,2024-09-19
+1492,60,2024-12-26,Completed,Cash on Delivery,Standard,Website,2024-12-28
+1493,48,2024-06-23,Cancelled,Bank Transfer,Standard,Mobile App,2024-06-29
+1494,29,2024-10-28,Cancelled,Cash on Delivery,Pickup,Website,2024-11-01
+1495,97,2024-01-11,Cancelled,Card,Express,Website,2024-01-15
+1496,10,2024-09-16,Completed,Bank Transfer,Express,Website,2024-09-21
+1497,242,2024-07-05,Completed,Bank Transfer,Standard,Mobile App,2024-07-07
+1498,58,2024-09-16,Completed,Wallet,Pickup,Mobile App,2024-09-20
+1499,188,2024-10-01,Completed,Card,Pickup,Website,2024-10-06
+1500,232,2024-02-05,Completed,Wallet,Express,Website,2024-02-09
