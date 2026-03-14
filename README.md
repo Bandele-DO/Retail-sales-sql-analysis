@@ -195,7 +195,7 @@ The SQL analysis focuses on generating business metrics such as:
 
 ## Slow-moving Products
 
-![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Revenue_by_Category.png)](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Revenue_by_Category.png)
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Revenue_by_Category.png)
 
 
 ---
