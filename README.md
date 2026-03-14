@@ -1,7 +1,7 @@
 # 📊 Retail Sales, Profitability & Inventory Insights Dashboard
 SQL | Data Analysis | Dashboard Design | Business Insights
 
-![Dashboard Preview](dashboard/retail_sales_dashboard.png)
+![Dashboard Preview](Dasboard_and_Query_Screenshots/Dashboard.Screenshot.png)
 
 ## 📌 Project Overview
 
@@ -15,18 +15,115 @@ Raw Data → SQL Analysis → Business Metrics → Dashboard Visualization → B
 
 ---
 
-# 🎯 Project Objectives
+# 🏢 Business Context
 
-The goal of this project is to simulate real-world data analyst tasks by answering **20 structured business questions** using SQL and presenting the results through a dashboard.
+This dataset simulates a **mid-sized Nigerian e-commerce company** operating in major cities including Lagos, Abuja, Port Harcourt, Ibadan, and Kano.
 
-Key areas analyzed:
+The company sells products across multiple categories including:
+
+- Electronics
+- Fashion
+- Home
+- Sports
+- Beauty
+
+The business manages customer orders, product inventory, and warehouse stock levels while handling returned and completed orders.
+
+However, leadership currently lacks clear visibility into how **sales performance, inventory planning, and profitability interact**, making it difficult to make informed operational and strategic decisions.
+
+---
+
+# 🎯 Core Business Problem
+
+Although the company is generating consistent sales, it lacks insight into how sales performance aligns with inventory management and product profitability.
+
+This results in several operational challenges:
+
+- Overstocked products tying up capital
+- Risk of stockouts for high-demand items
+- Revenue leakage due to product returns
+- Limited visibility into high-value customers
+- Inefficient inventory planning
+
+This project addresses these issues by using **SQL analysis to connect sales performance, inventory data, and profitability metrics** to uncover actionable insights.
+
+---
+
+# 👥 Stakeholder-Driven Business Questions
+
+The SQL analysis in this project answers **30 business questions** designed to support different stakeholders within the company.
+
+---
+
+## 🧑‍💼 Sales Manager
+
+Goal: Understand revenue drivers and improve sales performance.
+
+Key questions include:
+
+- Which products and categories generate the most revenue?
+- How is revenue trending month-to-month?
+- Who are the top customers by total spending?
+- What is the average order value?
+- Which cities generate the highest number of orders?
+
+---
+
+## 📦 Operations / Inventory Manager
+
+Goal: Improve stock management and prevent inventory imbalance.
+
+Key questions include:
+
+- Which products are currently below reorder level?
+- Which products have high stock but low sales volume?
+- What is the inventory turnover ratio for each product?
+- Are fast-selling products at risk of stockouts?
+- How long has it been since each product was last restocked?
+
+---
+
+## 💰 Finance Manager
+
+Goal: Monitor profitability and reduce revenue leakage.
+
+Key questions include:
+
+- Which products generate the highest total profit?
+- What is the profit margin by product category?
+- How much profit is lost due to returned orders?
+- Are high-revenue products also highly profitable?
+- Which categories contribute the most to overall profitability?
+
+---
+
+## 🧠 Executive Leadership (CEO)
+
+Goal: Align sales growth with operational efficiency.
+
+Key questions include:
+
+- Are sales trends aligned with inventory availability?
+- Which categories show strong demand but limited stock?
+- Are resources being allocated to the most profitable products?
+- How concentrated is revenue among high-value customers?
+- Are there operational inefficiencies impacting profitability?
+
+---
+
+# 🏆 Project Scope
+
+This project performs an **integrated analysis of sales, inventory, and profitability** using SQL.
+
+By answering 20 structured business questions, the analysis provides insights into:
 
 - Revenue performance
-- Product sales performance
-- Customer segmentation
-- Inventory efficiency
-- Return behavior
-- Category contribution to revenue
+- Product demand
+- Customer value segmentation
+- Inventory risk
+- Profitability drivers
+
+The results are summarized in a **dashboard built in Excel**, designed to help stakeholders quickly understand business performance and make data-driven decisions.
 
 ---
 
@@ -70,19 +167,47 @@ The SQL analysis focuses on generating business metrics such as:
 
 # 🧠 Example SQL Queries
 
+## KPI's
+
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/KPI's.png)
+
+---
+
 ## Customer Segmentation Using Quartiles
 
-
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Customer_Segmentation.png)
 
 ---
 
 ## Monthly Revenue Trend
 
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Monthly_Revenue_Trend.png)
 
 
 ---
 
+## Revenue By Category
+
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Revenue_by_Category.png)
+
+
+---
+
+## Slow-moving Products
+
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Revenue_by_Category.png)](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Revenue_by_Category.png)
+
+
+---
+
+## Top 10 Products 
+
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Top10_Products.png)
+
+---
 # 📈 Dashboard
+
+![Alt text for the image](https://github.com/Bandele-DO/Retail-sales-sql-analysis/blob/main/Dasboard_and_Query_Screenshots/Dashboard.Screenshot.png)
 
 The final dashboard was created using **Excel** and summarizes key business insights including:
 
@@ -119,29 +244,6 @@ Several products show a high stock-to-sales ratio, indicating slower inventory t
 
 ---
 
-# 📂 Project Structure
-
-```
-retail-sales-analysis
-│
-├── data
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── products.csv
-│   └── inventory.csv
-│
-├── sql
-│   └── analysis_queries.sql
-│
-├── dashboard
-│   └── retail_sales_dashboard.png
-│
-└── README.md
-```
-
----
-
 # 🚀 Skills Demonstrated
 
 This project demonstrates practical skills required for a **Data Analyst role**:
@@ -153,17 +255,6 @@ This project demonstrates practical skills required for a **Data Analyst role**:
 - Business metric analysis
 - Dashboard design
 - Data storytelling
-
----
-
-# 💡 What I Learned
-
-Through this project I practiced:
-
-- Writing structured and readable SQL queries
-- Converting raw transactional data into business metrics
-- Designing dashboards that communicate insights effectively
-- Identifying business risks such as slow-moving inventory
 
 ---
 
