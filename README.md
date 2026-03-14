@@ -1,4 +1,5 @@
 # 📊 Retail Sales, Profitability & Inventory Insights Dashboard
+SQL | Data Analysis | Dashboard Design | Business Insights
 
 ![Dashboard Preview](dashboard/retail_sales_dashboard.png)
 
@@ -166,13 +167,31 @@ Through this project I practiced:
 
 ---
 
-# 📬 Contact
+# 📌 Business Recommendations
 
-If you would like to connect or discuss data analytics opportunities:
+Based on the analysis, the following strategic actions are recommended:
 
-GitHub: (Add your GitHub link)  
-LinkedIn: (Add your LinkedIn link)
+### 1. Focus Marketing on High-Value Customers
+The analysis shows that a smaller segment of **high-value customers** contributes a significant portion of total revenue.  
+Targeted campaigns such as loyalty programs, personalized promotions, and exclusive offers could increase retention and lifetime value.
 
+### 2. Optimize Inventory for Slow-Moving Products
+Products with a **high stock-to-sales ratio** indicate slower demand relative to inventory levels.  
+Possible actions include:
+- promotional discounts
+- product bundling
+- inventory rebalancing
+
+### 3. Double Down on High-Performing Categories
+The **Electronics category generates the highest revenue**, suggesting strong demand.  
+Expanding product variety or marketing efforts in this category could further increase sales.
+
+### 4. Monitor Monthly Revenue Fluctuations
+Revenue trends indicate seasonal fluctuations across months.  
+Understanding these patterns can help with:
+- demand forecasting
+- inventory planning
+- marketing campaign timing
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository.
